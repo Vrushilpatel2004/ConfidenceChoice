@@ -1,0 +1,16 @@
+ConfidenceChoice | Breast Cancer Wisconsin (Diagnostic)
+scikit-learn=1.9.1; split seed=42; model seed=42
+Split: train=341, calibration=114, test=114
+StandardScaler + LogisticRegression(max_iter=2000); fit on train only
+Test rule: answer if max(predict_proba) >= threshold
+ threshold  answered  skipped   coverage   accuracy
+  baseline       114        0    100.00%     98.25%
+      0.60       110        4     96.49%     98.18%
+      0.70       107        7     93.86%     99.07%
+      0.80       103       11     90.35%     99.03%
+      0.90        94       20     82.46%    100.00%
+      0.95        86       28     75.44%    100.00%
+      0.99        72       42     63.16%    100.00%
+Accuracy is among answered cases; baseline answers every test case.
+Calibration: not implemented (src/calibration.py is empty); calibration split unused.
+Thresholds illustrate test-set behavior; no threshold selected or tuned on test.
