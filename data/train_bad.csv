@@ -1,0 +1,892 @@
+PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+1,0,3.0,"Braund, Mr. Owen Harris",male,22.0,1.0,0.0,A/5 21171,-152.25017691392017,,S
+2,1,1.5805875296282916,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",,38.0,1.0,,PC 17599,71.2833,C85,
+3,0,3.0,,female,57.70905712719454,0.0,0.3278633275385259,STON/O2. 3101282,7.925,,S
+4,1,0.34673377737000555,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",female,37.418523333550475,1.0,,113803,53.1,C123,S
+5,0,,"Allen, Mr. William Henry",male,34.285115263253715,0.0,0.0,373450,,,S
+6,0,2.4150151391709684,"Moran, Mr. James",male,,0.0,0.15928963494698384,330877,,,Q
+7,1,1.0,"McCarthy, Mr. Timothy J",male,54.0,0.0,-1.493419258577394,17463,51.8625,E46,S
+8,0,3.0,,,2.0,,1.0,349909,,,S
+9,1,,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",female,21.241469245607995,0.0,2.0,347742,,,S
+10,1,2.0,"Nasser, Mrs. Nicholas (Adele Achem)",female,,1.0,,237736,30.0708,,C
+11,1,4.1207119599305,"Sandstrom, Miss. Marguerite Rut",female,16.36451358552842,1.0,,PP 9549,16.7,G6,S
+12,1,1.0,,female,58.0,0.0,,113783,26.55,,S
+13,0,5.567666619946401,"Saundercock, Mr. William Henry",male,20.0,0.0,0.0,A/5. 2151,8.05,,S
+14,0,3.0,"Andersson, Mr. Anders Johan",male,39.0,1.0,5.0,347082,118.42966258781672,,S
+15,0,3.0,"Vestrom, Miss. Hulda Amanda Adolfina",female,40.87476563904858,0.2991801814159314,0.0,350406,91.69279330732523,,S
+16,0,2.0,"Hewlett, Mrs. (Mary D Kingcome) ",female,55.0,,0.0,,16.0,,
+17,0,3.0,,male,24.858977950981448,4.0,1.0,,106.43318653105285,,Q
+18,1,,"Williams, Mr. Charles Eugene",male,,0.0,0.0,244373,-108.6882026709286,,S
+19,0,3.0,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",female,31.0,-0.42695707700942753,,345763,18.0,,S
+20,1,3.0,"Masselmani, Mrs. Fatima",female,,0.0,-0.8482807241647261,2649,7.225,,
+21,0,2.0,"Fynney, Mr. Joseph J",,32.747772995527654,0.0,1.152506519331725,239865,,,S
+22,0,2.0,"Beesley, Mr. Lawrence",male,34.0,-0.43789459614481774,0.2586343526518914,248698,-8.266165792268925,D56,
+23,1,3.0,"McGowan, Miss. Anna ""Annie""",female,,0.0,0.0,330923,8.0292,,Q
+24,1,1.0,"Sloper, Mr. William Thompson",male,28.0,0.0,0.22971853983641413,113788,35.5,A6,S
+25,0,1.9181192341267823,"Palsson, Miss. Torborg Danira",,,3.0,1.0,,,,S
+26,1,,,female,38.0,0.49010922744788676,5.0,347077,,,S
+27,1,3.0,,male,,0.0,0.0,,7.225,,C
+28,0,,"Fortune, Mr. Charles Alexander",,19.0,3.0,2.0,19950,356.37307565930934,C23 C25 C27,S
+29,1,,"O'Dwyer, Miss. Ellen ""Nellie""",female,,0.0,0.0,330959,7.8792,,Q
+30,0,3.0,,male,,,0.0,349216,,,S
+31,0,1.0,"Uruchurtu, Don. Manuel E",male,40.0,,1.6251019880590354,PC 17601,51.6185156393551,,C
+32,1,1.0,"Spencer, Mrs. William Augustus (Marie Eugenie)",female,,1.0,0.25573376050280333,PC 17569,,,C
+33,1,3.0,"Glynn, Miss. Mary Agatha",female,,0.0,,335677,,,Q
+34,1,2.0,,male,66.0,0.0,0.0,C.A. 24579,10.5,,S
+35,0,1.0,"Meyer, Mr. Edgar Joseph",male,28.0,1.0,0.0,PC 17604,177.51993465429086,,C
+36,0,,,male,,1.4339742435154368,0.0,113789,52.0,,S
+37,1,,"Mamee, Mr. Hanna",male,,0.0,-0.26315397079560665,2677,,,C
+38,0,3.0,"Cann, Mr. Ernest Charles",male,21.0,,0.0,,,,S
+39,1,3.0,"Vander Planke, Miss. Augusta Maria",female,20.087621332835592,2.0,,345764,18.0,,S
+40,1,3.0,"Nicola-Yarred, Miss. Jamila",female,14.0,1.0,0.0,2651,53.65173220046327,,C
+41,0,3.0,"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",female,,1.0,0.0,,9.475,,S
+42,0,3.121202138233157,"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",female,27.0,,0.0,,21.0,,S
+43,0,3.0,"Kraeff, Mr. Theodor",male,,,0.0,349253,,,C
+44,1,2.0,"Laroche, Miss. Simonne Marie Anne Andree",,3.0,1.0,2.0,SC/Paris 2123,41.5792,,C
+45,1,3.0,"Devaney, Miss. Margaret Delia",female,19.0,,-1.5273808420488542,330958,7.8792,,Q
+46,0,3.0,"Rogers, Mr. William John",male,,-1.4784737476293186,,S.C./A.4. 23567,8.05,,S
+47,1,2.3117587427797623,,male,,1.0,0.0,370371,,,
+48,0,3.0,"O'Driscoll, Miss. Bridget",female,,0.0,0.0,14311,7.75,,
+49,0,3.0,,male,,2.0,0.3904806689163276,2662,21.6792,,C
+50,1,,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",female,18.0,1.0,,349237,17.8,,
+51,0,,"Panula, Master. Juha Niilo",male,7.0,6.0682391267345315,0.8382874036915259,3101295,39.6875,,S
+52,0,,,,,0.0,-3.7275146057643274,A/4. 39886,7.8,,S
+53,1,1.0,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",female,49.0,1.0,,PC 17572,76.7292,D33,C
+54,1,1.5211805400390355,"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",,29.0,,0.0,,26.0,,S
+55,0,1.0,"Ostby, Mr. Engelhart Cornelius",,,0.0,1.0,113509,-144.6873422795897,B30,C
+56,1,1.0,"Woolner, Mr. Hugh",male,,0.0,0.0,19947,35.5,C52,S
+57,1,2.0,"Rugg, Miss. Emily",female,21.0,0.0,0.0,C.A. 31026,10.5,,S
+58,0,3.0,"Novel, Mr. Mansouer",male,,0.0,0.0,,,,
+59,1,,"West, Miss. Constance Mirium",,8.462723713639646,1.0,,C.A. 34651,27.75,,S
+60,0,,"Goodwin, Master. William Frederick",male,11.0,5.0,,CA 2144,46.9,,S
+61,0,3.0,"Sirayanian, Mr. Orsen",,22.0,0.0,0.0,2669,7.2292,,C
+62,1,1.0,"Icard, Miss. Amelie",female,-0.9309662255854008,0.0,-0.25012488346595274,,80.0,B28,
+63,0,1.0,,,45.0,1.0,0.0,36973,83.475,C83,S
+64,0,3.0,"Skoog, Master. Harald",male,,3.0,2.0,347088,60.162979332437196,,
+65,0,1.0,"Stewart, Mr. Albert A",male,,0.0,0.10520359092711787,PC 17605,27.7208,,C
+66,0,3.0,"Moubarek, Master. Gerios",male,,,,2661,15.2458,,
+67,1,1.579400836675466,"Nye, Mrs. (Elizabeth Ramell)",female,29.0,,0.20425811893516893,C.A. 29395,,F33,S
+68,0,3.0,"Crease, Mr. Ernest James",male,,2.2106466424866755,0.0,,66.79155662336606,,S
+69,1,,"Andersson, Miss. Erna Alexandra",female,17.0,4.0,2.0,3101281,,,
+70,0,3.0,"Kink, Mr. Vincenz",male,,2.0,0.0,315151,8.6625,,S
+71,0,2.0,"Jenkin, Mr. Stephen Curnow",male,32.0,0.0,0.0,,10.5,,
+72,0,4.322180470527034,,female,16.0,,2.0,CA 2144,46.9,,S
+73,0,2.0,,male,21.0,0.0,0.7171566025988928,,73.5,,
+74,0,3.0,"Chronopoulos, Mr. Apostolos",male,26.0,-0.14756310292885666,1.655995232972586,2680,,,C
+75,1,,"Bing, Mr. Lee",male,,0.0,0.0,1601,56.4958,,S
+76,0,3.0,"Moen, Mr. Sigurd Hansen",male,25.0,0.0,0.0,348123,-48.095503863756676,F G73,
+77,0,3.0,,male,,0.0,0.0,349208,,,S
+78,0,3.0,"Moutal, Mr. Rahamin Haim",male,,,0.0,,8.05,,
+79,1,2.0,"Caldwell, Master. Alden Gates",male,0.83,-1.096041757488778,2.0,248738,29.0,,S
+80,1,3.0,"Dowdell, Miss. Elizabeth",female,30.0,,0.0,364516,12.475,,S
+81,0,3.0,,male,,,,345767,9.0,,S
+82,1,3.0,,male,29.0,0.0,0.0,345779,9.5,,
+83,1,3.0,"McDermott, Miss. Brigdet Delia",female,,0.0,0.0,330932,7.7875,,
+84,0,,"Carrau, Mr. Francisco M",male,28.0,0.0,,113059,-61.370623587583076,,S
+85,1,,"Ilett, Miss. Bertha",female,17.0,0.0,0.0,SO/C 14885,10.5,,S
+86,1,,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",female,33.0,3.0,,3101278,15.85,,S
+87,0,3.0,"Ford, Mr. William Neal",male,21.39917349449717,1.0,,W./C. 6608,,,
+88,0,3.0,"Slocovski, Mr. Selman Francis",male,,0.6377586608722167,0.0,SOTON/OQ 392086,-52.61547966179974,,S
+89,1,,,female,48.94834177643352,3.0,2.0,19950,,C23 C25 C27,S
+90,0,3.0,"Celotti, Mr. Francesco",male,,0.0,0.0,,8.05,,S
+91,0,,"Christmann, Mr. Emil",male,29.0,0.0,-0.5297252543187186,343276,8.05,,S
+92,0,3.0,"Andreasson, Mr. Paul Edvin",male,,,0.0,347466,7.8542,,S
+93,0,3.364689850443531,"Chaffee, Mr. Herbert Fuller",male,27.967917240233426,,0.0,W.E.P. 5734,61.175,E31,S
+94,0,3.0,,male,26.0,1.0,2.0,,20.575,,S
+95,0,3.0,"Coxon, Mr. Daniel",male,59.0,0.0,0.0,,-21.633167305013895,,S
+96,0,3.0,"Shorney, Mr. Charles Joseph",male,,,,374910,8.05,,
+97,1,1.0,,male,71.0,0.0,0.0,PC 17754,34.6542,A5,C
+98,1,,"Greenfield, Mr. William Bertram",male,,0.0,,PC 17759,63.3583,,C
+99,1,,"Doling, Mrs. John T (Ada Julia Bone)",female,44.259799835523324,0.0,1.0,231919,23.0,,S
+100,1,2.0,"Kantor, Mr. Sinai",male,34.0,0.3147711809977587,0.0,244367,26.0,,S
+101,0,3.0,"Petranec, Miss. Matilda",female,,0.0,0.0,349245,7.8958,,S
+102,0,3.0,"Petroff, Mr. Pastcho (""Pentcho"")",male,,0.0,0.5132716071235046,349215,,,S
+103,0,1.0,"White, Mr. Richard Frasar",male,57.590419806100655,0.0,1.0,35281,77.2875,D26,S
+104,0,3.0,"Johansson, Mr. Gustaf Joel",male,33.0,,,7540,8.6542,,S
+105,0,3.0,"Gustafsson, Mr. Anders Vilhelm",,37.0,2.4521651852900237,0.0,,-32.76524034112091,,
+106,0,3.0,"Mionoff, Mr. Stoytcho",,28.0,0.0,0.0,349207,17.44484885851119,,S
+107,0,3.0,,female,,0.0,0.0,343120,7.65,,S
+108,1,1.2215325822718728,"Moss, Mr. Albert Johan",male,,4.431003919468899,0.0,,7.775,,S
+109,1,,"Rekic, Mr. Tido",male,,0.0,0.0,349249,7.8958,,S
+110,1,2.2750513138870305,,female,,1.8776124991757737,,371110,24.15,,Q
+111,0,1.0,"Porter, Mr. Walter Chamberlain",male,47.0,0.0,2.1008379376934196,,52.0,C110,S
+112,1,3.0,,,-1.4942067410284015,1.0,0.0,2665,14.4542,,C
+113,0,4.97293461442375,,male,22.0,0.0,,,8.05,,S
+114,0,3.0,"Jussila, Miss. Katriina",,20.0,1.0,0.0,,9.825,,S
+115,0,,"Attalah, Miss. Malake",female,-0.9012882425348749,0.0,0.0,2627,14.4583,,C
+116,0,3.0,"Pekoniemi, Mr. Edvard",male,21.0,,0.0,,7.925,,S
+117,0,3.0,"Connors, Mr. Patrick",,70.5,0.0,0.0,,7.75,,Q
+118,0,2.0,"Turpin, Mr. William John Robert",,29.0,,,11668,35.14221650853509,,S
+119,0,1.0,"Baxter, Mr. Quigg Edmond",male,,0.0,1.0,,110.57547454002432,B58 B60,
+120,0,3.0,"Andersson, Miss. Ellis Anna Maria",,2.0,4.0,2.0,347082,31.275,,S
+121,0,2.0,"Hickman, Mr. Stanley George",male,21.0,,,S.O.C. 14879,68.79056658034392,,S
+122,0,3.0,"Moore, Mr. Leonard Charles",,,,0.0,,8.05,,S
+123,0,,"Nasser, Mr. Nicholas",male,32.5,1.0,,237736,30.0708,,C
+124,1,2.0,"Webber, Miss. Susan",female,22.762545977762073,0.0,0.0,,127.76640730994828,E101,S
+125,0,,,male,54.0,0.0,,35281,77.2875,D26,S
+126,1,3.0,"Nicola-Yarred, Master. Elias",,12.0,1.0,0.0,,11.2417,,C
+127,0,4.6923171531196015,"McMahon, Mr. Martin",male,,,0.0,370372,,,Q
+128,1,,,male,24.0,0.0,0.0,C 17369,7.1417,,S
+129,1,,"Peter, Miss. Anna",,,,1.0,2668,-29.64869839437032,F E69,C
+130,0,4.1820603676014025,"Ekstrom, Mr. Johan",,,1.226675252671279,0.0,,6.975,,S
+131,0,,"Drazenoic, Mr. Jozef",male,33.0,0.0,0.0,349241,7.8958,,
+132,0,3.0,"Coelho, Mr. Domingos Fernandeo",male,,1.5854906401416586,0.0,SOTON/O.Q. 3101307,-5.489866825875235,,S
+133,0,3.0,"Robins, Mrs. Alexander A (Grace Charity Laury)",,47.0,1.0,0.0,A/5. 3337,14.5,,S
+134,1,2.0,"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",female,19.019449531305042,,0.0,228414,14.952697142254062,,S
+135,0,2.0,"Sobey, Mr. Samuel James Hayden",male,25.0,,0.0,,,,S
+136,0,,"Richard, Mr. Emile",male,,0.0,0.0,,63.106672966158236,,C
+137,1,1.0,"Newsom, Miss. Helen Monypeny",female,,-0.11083884277757182,2.0,11752,26.2833,D47,S
+138,0,1.0,"Futrelle, Mr. Jacques Heath",male,,3.1660312677505678,-0.6229696790989124,113803,53.1,,S
+139,0,3.0,"Osen, Mr. Olaf Elon",male,16.0,0.0,0.0,7534,9.2167,,S
+140,0,,"Giglio, Mr. Victor",male,24.0,0.0,0.0,PC 17593,57.427095361045744,B86,C
+141,1,3.0,"Boulos, Mrs. Joseph (Sultana)",female,,,2.0,2678,15.2458,,C
+142,0,3.0,"Nysten, Miss. Anna Sofia",female,,,2.193589874539958,,7.75,,S
+143,1,0.2059346955248409,"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",female,24.0,1.0,,STON/O2. 3101279,15.85,,S
+144,0,1.5604844399035305,"Burke, Mr. Jeremiah",,19.0,0.0,0.0,365222,6.75,,Q
+145,1,2.260109896454064,"Andrew, Mr. Edgardo Samuel",male,18.0,0.0,0.0,231945,11.5,,S
+146,1,2.0,"Nicholls, Mr. Joseph Charles",male,19.0,4.2772378935063955,1.0,C.A. 33112,36.75,,S
+147,1,3.0,"Andersson, Mr. August Edvard (""Wennerstrom"")",,27.0,0.0,0.0,350043,-123.65206013470429,,S
+148,1,3.0,"Ford, Miss. Robina Maggie ""Ruby""",female,9.0,3.150523796596976,2.0,W./C. 6608,,,S
+149,0,2.0,,male,36.5,0.0,2.0,230080,26.0,F2,S
+150,0,,,male,,0.0,0.0,244310,13.0,,S
+151,0,2.0,"Bateman, Rev. Robert James",male,51.0,0.0,0.0,S.O.P. 1166,,,S
+152,1,1.0,"Pears, Mrs. Thomas (Edith Wearne)",female,22.0,1.0,0.0,113776,66.6,C2,S
+153,0,,"Meo, Mr. Alfonzo",male,55.5,1.4623310021650713,0.0,,8.05,,S
+154,0,3.0,,,40.5,0.0,,A/5. 851,,,S
+155,0,,"Olsen, Mr. Ole Martin",male,,0.0,0.0,,7.3125,,S
+156,0,1.0,,male,51.0,0.0,1.0,PC 17597,-48.36406208548824,,
+157,1,3.0,"Gilnagh, Miss. Katherine ""Katie""",female,16.0,0.0,0.0,,,,Q
+158,0,3.0,"Corn, Mr. Harry",,30.0,0.0,0.0,SOTON/OQ 392090,8.05,,S
+159,0,3.0,"Smiljanic, Mr. Mile",male,,-1.4653164574309456,0.0,315037,8.6625,,S
+160,1,4.1966984336517825,"Sage, Master. Thomas Henry",male,,8.0,2.0,CA. 2343,69.55,,S
+161,0,,,male,68.16375130961279,0.0,1.0,,,,S
+162,1,2.0,"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",,40.0,3.442491092287446,,C.A. 33595,15.75,,S
+163,1,3.0,,male,26.0,-1.425219536018219,0.0,347068,7.775,,S
+164,1,,"Calic, Mr. Jovo",male,17.0,-1.5918691327276007,0.5558708023004112,315093,,,S
+165,0,3.0,"Panula, Master. Eino Viljami",male,1.0,4.0,1.0,,39.6875,,
+166,1,3.0,"Goldsmith, Master. Frank John William ""Frankie""",male,9.216929684111225,0.0,2.0,363291,,,S
+167,1,1.0,"Chibnall, Mrs. (Edith Martha Bowerman)",,,0.0,1.0,113505,55.0,E33,S
+168,0,3.0,"Skoog, Mrs. William (Anna Bernhardina Karlsson)",female,45.0,1.0,4.0,347088,,,S
+169,0,1.71505724962149,"Baumann, Mr. John D",male,,0.0,0.0,,25.925,,S
+170,0,3.0,"Ling, Mr. Lee",,28.0,0.0,,1601,27.8980311820421,,S
+171,1,1.0,"Van der hoef, Mr. Wyckoff",male,61.0,,0.0,,33.5,B19,S
+172,0,3.0,"Rice, Master. Arthur",male,4.0,4.0,1.0,,15.495342526088201,,Q
+173,1,3.0,"Johnson, Miss. Eleanor Ileen",female,1.0,0.0664643145979158,1.0,,11.1333,,S
+174,0,3.0,"Sivola, Mr. Antti Wilhelm",male,21.0,0.0,,STON/O 2. 3101280,,,
+175,0,,"Smith, Mr. James Clinch",male,,0.0,1.836702550696757,17764,30.6958,A7,C
+176,0,,"Klasen, Mr. Klas Albin",,18.0,2.110501742272648,1.0,350404,7.8542,,S
+177,0,3.0,"Lefebre, Master. Henry Forbes",male,,3.0,1.0,4133,25.4667,,S
+178,0,2.1147050818323283,,female,50.0,,0.0,PC 17595,28.7125,C49,C
+179,0,2.0,"Hale, Mr. Reginald",male,66.19196306088014,0.0,0.0,250653,,,S
+180,0,3.0,"Leonard, Mr. Lionel",male,29.524949986282802,0.0,-0.5989051529723768,LINE,0.0,,S
+181,0,3.0,"Sage, Miss. Constance Gladys",female,,,,CA. 2343,69.55,,S
+182,0,2.0,"Pernot, Mr. Rene",,,0.0,0.0,,15.05,,
+183,1,3.0,"Asplund, Master. Clarence Gustaf Hugo",male,9.0,4.0,2.0,347077,31.3875,,S
+184,1,2.0,"Becker, Master. Richard F",,1.0,2.0,,230136,39.0,F4,S
+185,1,3.237717016457558,"Kink-Heilmann, Miss. Luise Gretchen",female,-4.408316488157137,-0.34602851644775484,2.0,315153,22.025,,S
+186,0,1.0,"Rood, Mr. Hugh Roscoe",male,,0.0,0.0,113767,50.0,A32,S
+187,1,1.44775957120136,"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)",female,,,,370365,15.5,,Q
+188,0,,"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",male,5.948962891240733,0.0,0.0,111428,,,S
+189,0,2.1343437364047584,"Bourke, Mr. John",male,40.0,1.0,,364849,,,Q
+190,0,3.0,"Turcin, Mr. Stjepan",male,36.0,-0.7224705311809981,0.0,349247,,,S
+191,1,2.0,"Pinsky, Mrs. (Rosa)",female,,0.0,-0.36406009075078566,234604,13.0,,S
+192,0,2.0,"Carbines, Mr. William",male,19.0,0.0,0.0,28424,13.0,,S
+193,1,,"Andersen-Jensen, Miss. Carla Christine Nielsine",,,2.286791031229057,0.0,350046,,,S
+194,0,2.0,"Navratil, Master. Michel M",male,1.4716464775542701,1.764784209114576,0.28876780055864826,,26.0,,S
+195,1,,"Brown, Mrs. James Joseph (Margaret Tobin)",female,44.0,0.0,1.0258994730271453,PC 17610,27.7208,B4,C
+196,1,,"Lurette, Miss. Elise",female,29.649700625544735,,0.0,PC 17569,,B80,C
+197,0,3.0,"Mernagh, Mr. Robert",male,,0.0,0.0,368703,7.75,,
+198,0,3.0,"Olsen, Mr. Karl Siegwart Andreas",male,42.0,0.0,,4579,8.4042,,S
+199,0,,"Madigan, Miss. Margaret ""Maggie""",female,,,,370370,7.75,,Q
+200,0,2.0,"Yrois, Miss. Henriette (""Mrs Harbeck"")",female,,0.0,0.0,248747,13.0,,S
+201,0,3.0,"Vande Walle, Mr. Nestor Cyriel",male,28.0,,0.0,345770,9.5,,S
+202,0,3.0,"Sage, Mr. Frederick",male,,7.470555040555994,2.0,CA. 2343,69.55,,S
+203,0,3.0,"Johanson, Mr. Jakob Alfred",male,34.0,-1.9325389776222128,,3101264,6.4958,,S
+204,0,,"Youseff, Mr. Gerious",male,45.5,0.0,0.0,2628,7.225,,C
+205,0,,"Cohen, Mr. Gurshon ""Gus""",male,4.394944877292886,0.0,,A/5 3540,8.05,,S
+206,0,1.0853605532044943,"Strom, Miss. Telma Matilda",female,2.0,1.1887170077362905,1.0,,10.4625,G6,S
+207,0,,"Backstrom, Mr. Karl Alfred",male,,1.0,0.7001742339533219,3101278,15.85,,
+208,1,3.0,"Albimona, Mr. Nassef Cassem",,,0.0,0.0,,78.08338297861725,,C
+209,1,,,,,0.0,,367231,,,
+210,1,1.0,,male,50.40350560096003,0.0,0.0,112277,31.0,A31,C
+211,0,3.0,"Ali, Mr. Ahmed",male,24.0,0.0,3.4166673509799526,SOTON/O.Q. 3101311,7.05,,S
+212,1,3.0060726064230874,"Cameron, Miss. Clear Annie",,35.0,0.0,0.0,F.C.C. 13528,21.0,,S
+213,0,,"Perkin, Mr. John Henry",male,22.0,-1.7164532694107815,0.0,A/5 21174,44.84122779119825,,S
+214,0,2.0,,male,,,0.0,,13.0,,S
+215,0,3.0,"Kiernan, Mr. Philip",male,,1.0,2.0371681906678636,367229,7.75,,Q
+216,0,1.0,,female,,2.437964357530732,,35273,113.275,,C
+217,1,,"Honkanen, Miss. Eliina",female,,,0.0,,7.925,,
+218,0,,"Jacobsohn, Mr. Sidney Samuel",male,,1.0,,,27.0,,S
+219,0,0.9115425546863767,,female,32.0,0.17980049713370658,0.0,11813,76.2917,D15,C
+220,0,2.0,,male,-6.339465293224933,0.0,-1.4740357333795173,W/C 14208,10.5,,S
+221,1,3.0,"Sunderland, Mr. Victor Francis",male,16.0,0.0,,SOTON/OQ 392089,8.05,,S
+222,0,2.0,"Bracken, Mr. James H",male,27.0,0.0,,,13.0,,
+223,0,3.0,"Green, Mr. George Henry",,,0.0,,,-112.66207724443407,,S
+224,0,3.0,"Nenkoff, Mr. Christo",male,,,,349234,63.44363459957093,,S
+225,1,1.0,,male,43.09147361786097,3.5113916080110843,0.0,,249.61073691868717,C93,S
+226,0,3.0,,,22.0,0.0,0.0,,9.35,,S
+227,1,,"Mellors, Mr. William John",,19.0,0.0,,SW/PP 751,10.5,,
+228,0,3.0,"Lovell, Mr. John Hall (""Henry"")",male,20.5,0.0,0.0,A/5 21173,7.25,,
+229,0,2.0,"Fahlstrom, Mr. Arne Jonas",,18.0,,0.0,236171,13.0,,
+230,0,,"Lefebre, Miss. Mathilde",female,,,1.0,,25.4667,,S
+231,1,,,,35.0,1.0,0.0,36973,83.475,C83,
+232,0,3.0,"Larsson, Mr. Bengt Edvin",male,40.229131060073826,0.0,0.0628919407289743,347067,7.775,,S
+233,1,-0.3538532040473674,,male,59.0,0.0,0.0,237442,13.5,,
+234,1,3.0,"Asplund, Miss. Lillian Gertrud",female,5.0,4.0,0.4430787100835458,347077,31.3875,,S
+235,0,2.0,"Leyson, Mr. Robert William Norman",male,,0.0,0.0,C.A. 29566,10.5,,S
+236,1,3.0,"Harknett, Miss. Alice Phoebe",,,0.0,-0.005060937829302525,W./C. 6609,7.55,,S
+237,0,2.0,"Hold, Mr. Stephen",male,44.0,,0.0,26707,26.0,,S
+238,1,2.0,"Collyer, Miss. Marjorie ""Lottie""",female,8.0,0.0,2.0,C.A. 31921,,,S
+239,0,,"Pengelly, Mr. Frederick William",male,,0.0,0.0,28665,,,S
+240,0,,"Hunt, Mr. George Henry",,33.0,,0.0,SCO/W 1585,-60.536539361856036,,S
+241,0,3.903016398085201,"Zabour, Miss. Thamine",,,,0.0,2665,14.4542,,C
+242,1,3.0,,female,,,0.0,367230,15.5,,Q
+243,0,2.0,"Coleridge, Mr. Reginald Charles",male,,2.6966643116489633,0.0,W./C. 14263,-76.41059590103852,,
+244,0,3.450835608320177,"Maenpaa, Mr. Matti Alexanteri",male,22.0,0.0,0.0,STON/O 2. 3101275,7.125,,S
+245,0,3.0,"Attalah, Mr. Sleiman",male,30.0,0.0,0.0,2694,7.225,,C
+246,0,1.0,"Minahan, Dr. William Edward",male,,2.0,0.0,19928,90.0,C78,Q
+247,0,3.0,"Lindahl, Miss. Agda Thorilda Viktoria",female,25.0,0.0,0.0,347071,7.775,,S
+248,1,2.0,,female,24.0,,2.0,,14.52471939399644,,S
+249,1,1.0,"Beckwith, Mr. Richard Leonard",,,1.0,1.0,11751,52.5542,,
+250,0,2.0,"Carter, Rev. Ernest Courtenay",male,,,,244252,26.0,,S
+251,0,3.0,"Reed, Mr. James George",male,,0.0,1.7013367456465065,362316,7.25,,S
+252,1,3.0,"Strom, Mrs. Wilhelm (Elna Matilda Persson)",female,,1.0,,347054,,G6,S
+253,1,1.0,"Stead, Mr. William Thomas",,62.0,0.0,0.0,113514,85.79809877483763,C87,
+254,0,3.0,"Lobb, Mr. William Arthur",male,30.0,1.0,,A/5. 3336,16.1,,S
+255,0,3.0,"Rosblom, Mrs. Viktor (Helena Wilhelmina)",female,41.0,0.0,2.0,370129,20.2125,,S
+256,1,3.0,"Touma, Mrs. Darwis (Hanne Youssef Razi)",,29.0,0.0,2.0,,-2.9976893086320295,,C
+257,1,0.3567170281635138,"Thorne, Mrs. Gertrude Maybelle",female,,0.0,0.0,PC 17585,,,C
+258,1,,"Cherry, Miss. Gladys",female,30.0,-0.4756180185245633,0.0,110152,86.5,B77,S
+259,1,,"Ward, Miss. Anna",female,35.0,0.0,0.8797150211168827,PC 17755,,,C
+260,1,2.0,,female,101.37585708767119,,1.0,230433,232.28428445917586,,S
+261,0,,"Smith, Mr. Thomas",male,,0.0,,,7.75,,Q
+262,1,5.425209906267873,,male,3.0,4.0,2.0,347077,31.3875,,S
+263,0,2.331641205536671,,male,52.0,1.0,1.0,110413,79.65,E67,S
+264,0,,"Harrison, Mr. William",,38.6531280606117,0.0,0.0,112059,0.0,,S
+265,0,1.7263708810286413,,female,,0.0,,,136.96705499858666,,Q
+266,0,,,male,36.0,-0.2881585154512457,0.0,C.A. 17248,10.5,,
+267,0,3.0,,,,4.0,1.0,3101295,39.6875,,
+268,1,,"Persson, Mr. Ernst Ulrik",male,25.0,1.0,0.538051128086878,347083,-64.50341706039748,,S
+269,0,,"Graham, Mrs. William Thompson (Edith Junkins)",female,61.81646131662146,-0.3753558348424201,1.0,PC 17582,,C125,S
+270,1,,,,35.0,0.0,,PC 17760,237.98348561295057,C99,S
+271,1,,"Cairns, Mr. Alexander",male,,0.21701244632992944,0.0,113798,,,S
+272,1,,"Tornquist, Mr. William Henry",male,25.0,0.0,0.0,LINE,91.91954442024411,,S
+273,0,,,female,41.0,0.0,0.996129106835628,250644,19.5,,S
+274,0,1.0,,male,13.942153923616495,,1.0,,14.8745218796847,C118,C
+275,1,2.3732083463214093,"Healy, Miss. Hanora ""Nora""",female,,0.0,0.0,370375,,,
+276,1,1.0,"Andrews, Miss. Kornelia Theodosia",female,63.0,-0.011802446767780195,0.0,13502,,D7,S
+277,0,3.0,"Lindblom, Miss. Augusta Charlotta",,45.0,0.0,0.0,347073,-42.273211039221316,,S
+278,0,2.7084341893569714,"Parkes, Mr. Francis ""Frank""",,,-1.9187561042271903,0.0,239853,,,S
+279,0,3.0,,male,7.0,4.0,1.0,,70.19529832742901,,Q
+280,1,3.0,"Abbott, Mrs. Stanton (Rosa Hunt)",female,,1.0,1.0,C.A. 2673,20.25,,
+281,0,,"Duane, Mr. Frank",male,65.0,0.0,-2.8224847215749347,336439,7.75,,Q
+282,0,,"Olsson, Mr. Nils Johan Goransson",,28.0,0.0,0.0,347464,74.87499297823761,,S
+283,0,2.8615191369163337,"de Pelsmaeker, Mr. Alfons",male,16.0,0.0,,,9.5,,S
+284,0,3.0,"Dorking, Mr. Edward Arthur",male,,0.0,,A/5. 10482,26.530216183995652,,S
+285,0,1.0,"Smith, Mr. Richard William",male,,3.3381872431567197,0.0,113056,26.0,,S
+286,1,3.0,"Stankovic, Mr. Ivan",male,33.0,0.0,0.0,,,,C
+287,1,,"de Mulder, Mr. Theodore",male,30.0,0.0,0.0,345774,9.5,,
+288,0,3.0,"Naidenoff, Mr. Penko",male,22.0,-2.5115885421672863,0.0,,7.8958,,S
+289,1,2.0,"Hosono, Mr. Masabumi",male,42.0,0.0,0.0,,13.0,,S
+290,1,,"Connolly, Miss. Kate",female,,0.0,,370373,7.75,,Q
+291,1,1.0,,female,49.44955059892955,0.0,,19877,,,S
+292,1,,,female,19.0,1.0,0.0,11967,91.0792,,C
+293,0,2.0,,male,36.0,0.0,0.0,,,,C
+294,1,,,female,20.074912164204306,0.0,0.8744587317496403,349236,8.85,,
+295,0,3.0,"Mineff, Mr. Ivan",male,24.0,0.0,,349233,7.8958,,S
+296,0,1.0,"Lewy, Mr. Ervin G",,,,,PC 17612,47.279271553198534,,C
+297,0,3.0,"Hanna, Mr. Mansour",male,,-1.2442415119148773,-2.2747408125924022,2693,,,C
+298,0,2.8341530218510425,,,3.7644917804827305,,2.0,113781,151.55,,S
+299,0,1.0,"Saalfeld, Mr. Adolphe",male,,0.0,0.0,19988,,C106,S
+300,1,1.0,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",female,,-1.2951455222307988,1.0,PC 17558,,,C
+301,1,2.969334806334567,"Kelly, Miss. Anna Katherine ""Annie Kate""",female,,0.011735079106328648,0.0,9234,7.75,,Q
+302,1,,"McCoy, Mr. Bernard",,,2.0,0.0,,23.25,,
+303,0,3.0,"Johnson, Mr. William Cahoone Jr",male,19.0,-2.5304711277643896,0.0,LINE,21.11963604426378,,S
+304,1,2.0,"Keane, Miss. Nora A",female,,4.894676571589455,,,12.35,E101,
+305,0,3.0,,male,,0.0,1.4878502137782015,A/5 2466,8.05,,S
+306,1,1.0,"Allison, Master. Hudson Trevor",male,0.92,0.985527490285206,2.0,113781,151.55,,S
+307,1,1.0,"Fleming, Miss. Margaret",female,,0.0,0.0,17421,110.8833,,C
+308,1,1.0,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",female,17.0,1.0,1.247792414527776,PC 17758,108.9,C65,C
+309,0,2.0,"Abelson, Mr. Samuel",male,30.0,,2.7227493923207726,P/PP 3381,24.0,,C
+310,1,,"Francatelli, Miss. Laura Mabel",female,,,0.0,PC 17485,,E36,C
+311,1,1.0,"Hays, Miss. Margaret Bechstein",female,24.0,0.0,0.0,11767,83.1583,C54,C
+312,1,-1.3501308029667265,"Ryerson, Miss. Emily Borie",female,,2.0,1.3148306985563818,PC 17608,262.375,B57 B59 B63 B66,
+313,0,2.0,"Lahtinen, Mrs. William (Anna Sylfven)",female,26.0,,1.0,,26.0,,S
+314,0,3.0,,male,,-1.3651249823730132,0.0,349243,7.8958,,
+315,1,2.0,,,43.0,,1.0,F.C.C. 13529,26.25,,S
+316,1,3.768887512536007,"Nilsson, Miss. Helmina Josefina",female,,0.0,0.0,,7.8542,,S
+317,1,2.0,"Kantor, Mrs. Sinai (Miriam Sternin)",,47.44074402081489,1.0,1.5309550935618854,244367,,,S
+318,0,2.0,"Moraweck, Dr. Ernest",male,34.61101256282504,0.0,,,,,S
+319,0,0.799242612396059,"Wick, Miss. Mary Natalie",female,31.0,0.0,2.857011542346521,36928,164.8667,C7,
+320,0,1.9787187374774855,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",,40.0,1.0,,16966,134.5,E34,C
+321,0,3.0,"Dennis, Mr. Samuel",male,22.0,0.0,,A/5 21172,,,S
+322,0,0.9040934903036653,"Danoff, Mr. Yoto",male,27.0,,0.0,349219,7.8958,,
+323,1,2.0,"Slayter, Miss. Hilda Mary",female,26.965618538935104,0.0,,234818,12.35,,Q
+324,1,2.0,"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",female,22.0,1.0,0.8083449144179846,248738,21.805474625181056,,S
+325,0,3.0,"Sage, Mr. George John Jr",male,,8.0,2.0,CA. 2343,69.55,,S
+326,1,1.0,"Young, Miss. Marie Grice",female,36.0,0.0,0.0,PC 17760,,C32,C
+327,0,3.0,"Nysveen, Mr. Johan Hansen",male,,,0.0,345364,6.2375,,S
+328,1,2.0,"Ball, Mrs. (Ada E Hall)",,36.0,0.0,-0.4051297437568454,28551,13.0,D,S
+329,0,3.0,,female,31.0,1.0,1.0,363291,20.525,,
+330,1,1.0,,female,36.1133453940743,0.0,1.0,111361,57.9792,B18,
+331,0,3.0,"McCoy, Miss. Agnes",,,2.893031935824371,0.0,,23.25,,
+332,0,1.0,"Partner, Mr. Austen",male,,0.0,0.0,113043,28.5,C124,S
+333,1,-0.49176357848912056,"Graham, Mr. George Edward",,38.0,0.0,1.0,PC 17582,153.4625,C91,S
+334,0,3.0,,male,4.0357559649398524,5.040739742939971,,345764,18.0,,S
+335,1,,"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",female,,,0.0,PC 17611,133.65,,
+336,1,3.0,"Denkoff, Mr. Mitto",,,,0.0,349225,7.8958,,S
+337,0,,"Pears, Mr. Thomas Clinton",,-11.3533970380605,,,,66.6,C2,S
+338,1,1.0,"Burns, Miss. Elizabeth Margaret",female,41.0,0.0,0.0,16966,134.5,,C
+339,1,,,male,45.0,0.0,0.0,7598,21.189715432421977,,
+340,0,1.0,"Blackwell, Mr. Stephen Weart",,-24.62448524897242,0.0,0.013773679091652166,,35.5,,S
+341,1,,"Navratil, Master. Edmond Roger",male,-26.773838820955696,1.0,,,26.0,F2,
+342,1,1.0,,,24.0,3.0,,,263.0,C23 C25 C27,
+343,1,2.0,"Collander, Mr. Erik Gustaf",male,28.0,0.0,0.0,248740,-64.46775391101347,,S
+344,0,1.3735172353180753,"Sedgwick, Mr. Charles Frederick Waddington",male,25.0,0.0,0.0,244361,13.0,,S
+345,1,2.0,,male,,0.0,0.0,229236,13.0,,S
+346,1,2.0,"Brown, Miss. Amelia ""Mildred""",female,24.0,0.0,1.2602979506496925,,51.96361004118393,F33,S
+347,0,1.3412088823736839,"Smith, Miss. Marion Elsie",,40.0,0.0,0.6388532591936913,31418,,,S
+348,1,3.0,,,,1.0,,386525,16.1,,
+349,1,2.4592802327050727,,male,3.0,1.0,1.0,C.A. 37671,15.9,,S
+350,0,,"Dimic, Mr. Jovan",male,53.868382135505,0.0,0.0,315088,,,S
+351,0,3.0,"Odahl, Mr. Nils Martin",male,23.0,0.0,-2.054813014017302,,-3.109645938392484,,
+352,1,,"Williams-Lambert, Mr. Fletcher Fellows",male,,0.0,0.0,113510,35.0,C128,S
+353,1,3.0,,male,,1.0,1.0,2695,7.2292,,C
+354,0,3.0,"Arnold-Franchi, Mr. Josef",male,25.0,1.0,0.0,,17.8,,S
+355,0,4.0818164466098175,"Yousif, Mr. Wazli",male,,0.0,0.0,2647,88.02399871174752,,C
+356,0,3.0,"Vanden Steen, Mr. Leo Peter",male,21.393493841421424,-0.31342195499251313,0.0,,9.5,,S
+357,1,2.752398710861388,"Bowerman, Miss. Elsie Edith",female,22.0,0.0,1.0,,55.0,E33,S
+358,0,2.0,"Funk, Miss. Annie Clemmer",female,38.0,-2.3259323218602677,0.0,237671,13.0,,S
+359,1,4.813833437338809,"McGovern, Miss. Mary",female,,0.0,0.0,330931,7.8792,,Q
+360,1,4.383006783075934,,female,,0.0,0.6558593452179048,330980,7.8792,,Q
+361,0,1.3882443196196579,,male,40.0,1.0,,347088,24.492503776057163,,S
+362,0,,,male,29.0,-1.9887073583921717,0.0,SC/PARIS 2167,,,C
+363,0,,"Barbara, Mrs. (Catherine David)",female,45.0,0.0,1.0,,14.4542,,C
+364,0,,,male,35.0,0.2789957417212409,2.8244196108143056,SOTON/O.Q. 3101310,,,
+365,1,3.0,"O'Brien, Mr. Thomas",,,,0.0,370365,,,Q
+366,0,3.0,"Adahl, Mr. Mauritz Nils Martin",male,,0.0,0.0,C 7076,7.25,,
+367,1,1.0,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",female,60.0,1.0,0.8850040835898323,110813,,D37,C
+368,1,5.250573807226374,"Moussa, Mrs. (Mantoura Boulos)",,,0.0,0.0,2626,7.2292,,C
+369,1,3.0,"Jermyn, Miss. Annie",female,,0.0,0.0,,,,Q
+370,1,1.0,,,24.0,,0.0,,69.3,B35,C
+371,1,1.0,"Harder, Mr. George Achilles",male,25.0,1.0,0.0,11765,55.4417,E50,C
+372,0,3.0,"Wiklund, Mr. Jakob Alfred",male,18.0,1.0,,3101267,,,S
+373,0,3.0,"Beavan, Mr. William Thomas",male,28.97754496824463,0.0,0.0,,,,S
+374,0,1.0,"Ringhini, Mr. Sante",male,22.0,0.0,0.0,,135.6333,,C
+375,0,,"Palsson, Miss. Stina Viola",,13.247061799526138,3.0,1.0,349909,21.075,,S
+376,1,,,female,,,0.0,,82.1708,,
+377,1,3.0,"Landergren, Miss. Aurora Adelia",female,22.0,,0.0,,,,S
+378,0,1.0,"Widener, Mr. Harry Elkins",,27.0,,2.0,113503,211.5,C82,C
+379,0,3.0,"Betros, Mr. Tannous",male,,,0.0,2648,,,C
+380,0,3.0,"Gustafsson, Mr. Karl Gideon",male,19.0,0.0,0.0,347069,56.49920674446791,,S
+381,1,1.0,"Bidois, Miss. Rosalie",female,42.0,,0.0,PC 17757,227.525,,C
+382,1,3.0,"Nakid, Miss. Maria (""Mary"")",female,1.0,0.0,,2653,15.7417,,C
+383,1,3.0,"Tikkanen, Mr. Juho",male,32.0,0.0,,STON/O 2. 3101293,7.925,,
+384,1,1.0,,female,35.0,,,113789,52.0,,S
+385,0,3.0,"Plotcharsky, Mr. Vasil",male,,1.642269829211871,,349227,7.8958,,S
+386,0,2.0,,male,18.0,0.0,0.0,S.O.C. 14879,,,S
+387,0,3.0,,male,1.0,5.0,2.0,CA 2144,46.9,,S
+388,1,2.0,"Buss, Miss. Kate",female,36.0,0.0,0.0,27849,,,
+389,0,,"Sadlier, Mr. Matthew",male,,0.0,-1.3649664438864495,,7.7292,,Q
+390,0,2.0,"Lehmann, Miss. Bertha",female,17.0,-0.6330501014749786,0.0,SC 1748,12.0,,C
+391,1,1.0,"Carter, Mr. William Ernest",male,36.0,,2.0,113760,153.0440360296672,B96 B98,S
+392,1,,"Jansson, Mr. Carl Olof",,21.0,0.0,,350034,6.249848209956384,,S
+393,0,2.774136230896776,"Gustafsson, Mr. Johan Birger",male,28.0,2.0,0.0,3101277,7.925,,S
+394,0,0.9103583306512737,"Newell, Miss. Marjorie",female,23.0,2.8761255712161247,,35273,113.275,D36,C
+395,1,,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",female,,,2.0,PP 9549,,G6,S
+396,0,3.0,"Johansson, Mr. Erik",male,22.0,0.0,0.0,350052,7.7958,,
+397,0,3.0,"Olsson, Miss. Elina",female,31.0,-1.0926867405496812,0.0,350407,7.8542,,S
+398,1,2.0,"McKane, Mr. Peter David",male,,,0.0,28403,26.0,,S
+399,0,2.0,"Pain, Dr. Alfred",male,23.0,0.0,,244278,10.5,,S
+400,0,0.5345762408836479,"Trout, Mrs. William H (Jessie L)",female,28.0,0.0,,,,,S
+401,1,3.0,"Niskanen, Mr. Juha",male,39.0,-1.1277710624137836,0.0,,7.925,,
+402,0,3.0,"Adams, Mr. John",,14.144151665400384,,0.0,341826,85.7947307774319,,S
+403,0,3.0,"Jussila, Miss. Mari Aina",female,21.0,1.0,0.0,4137,9.825,,S
+404,0,,"Hakkarainen, Mr. Pekka Pietari",,28.0,,,STON/O2. 3101279,,,S
+405,0,3.0,"Oreskovic, Miss. Marija",female,20.0,3.3743356194500107,0.0,,8.6625,,S
+406,1,2.0,,male,34.0,,0.7835420779548655,28664,21.0,,S
+407,1,3.0,,male,64.87909557404784,0.0,0.0,347064,-10.192412131042452,,S
+408,0,2.0,"Richards, Master. William Rowe",male,3.0,,1.0,29106,18.75,,S
+409,0,,"Birkeland, Mr. Hans Martin Monsen",,,0.0,0.0,,,,S
+410,0,3.638393025587041,"Lefebre, Miss. Ida",female,,,1.9436288375477158,4133,,,S
+411,0,4.301749490742834,"Sdycoff, Mr. Todor",male,,,,,,,S
+412,1,3.4565464176794127,"Hart, Mr. Henry",,,0.0,0.0,394140,6.8583,,
+413,1,,"Minahan, Miss. Daisy E",female,33.0,,0.0,19928,90.0,C78,
+414,1,2.0,"Cunningham, Mr. Alfred Fleming",male,,,0.0,,0.0,,S
+415,1,,"Sundman, Mr. Johan Julian",,44.0,0.0,0.0,,7.925,,S
+416,0,3.0,"Meek, Mrs. Thomas (Annie Louise Rowley)",female,,-1.6053571562513191,0.0,343095,8.05,,S
+417,1,,"Drew, Mrs. James Vivian (Lulu Thorne Christian)",female,34.0,,1.0,28220,32.5,,S
+418,1,2.0,,female,18.0,0.0,2.0,250652,-78.99126360804586,,S
+419,0,,"Matthews, Mr. William John",,30.0,-1.8901713737112722,0.0659111212075508,28228,13.035405551634152,,S
+420,1,3.0,"Van Impe, Miss. Catharina",female,10.0,0.0,2.0,345773,-45.926000900999874,,S
+421,0,3.0,"Gheorgheff, Mr. Stanio",male,,4.248739525421372,1.0149026778167338,349254,-17.44651438285109,,
+422,0,,"Charters, Mr. David",,21.0,,0.0,A/5. 13032,7.7333,,Q
+423,1,,,male,,0.0,0.0,315082,7.875,,S
+424,0,,,female,,1.0,1.0,347080,-108.29185977974232,,S
+425,0,3.0,"Rosblom, Mr. Viktor Richard",male,18.0,2.238865251538373,1.0,370129,20.2125,,S
+426,0,3.0,"Wiseman, Mr. Phillippe",male,,0.0,,A/4. 34244,,,S
+427,1,2.0,,,,1.0,0.0,2003,26.0,,
+428,1,2.0,"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",,6.8626191380414845,-0.9407281341946886,0.0,250655,26.0,,S
+429,0,,"Flynn, Mr. James",male,,,1.4350328878712697,364851,7.75,,Q
+430,1,3.0,"Pickard, Mr. Berk (Berk Trembisky)",male,32.0,0.0,0.0,,8.05,E10,
+431,1,1.0,"Bjornstrom-Steffansson, Mr. Mauritz Hakan",male,28.0,0.0,0.0,110564,174.9363017354345,C52,S
+432,1,3.0,,female,,,,376564,,,S
+433,1,2.0,"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",female,42.0,,0.0,SC/AH 3085,181.61850259094834,,
+434,0,3.0,"Kallio, Mr. Nikolai Erland",,11.147755391303658,0.0,0.0,,7.125,,
+435,0,,"Silvey, Mr. William Baird",,50.0,1.0,0.0,13507,3.449691608241338,,S
+436,1,1.0,"Carter, Miss. Lucile Polk",female,,,2.0,113760,124.88984443144076,B96 B98,
+437,0,,"Ford, Miss. Doolina Margaret ""Daisy""",female,21.0,0.988868295460614,2.0,W./C. 6608,34.375,,
+438,0,2.0,"Richards, Mrs. Sidney (Emily Hocking)",female,24.0,1.412017200609713,3.0,29106,18.75,,S
+439,1,-0.4820472073289035,,male,64.0,1.0,4.0,19950,,,S
+440,0,2.0,"Kvillner, Mr. Johan Henrik Johannesson",male,31.0,0.0,-0.10964092442149287,C.A. 18723,10.5,,S
+441,1,2.0,"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",female,45.0,1.0,1.0,F.C.C. 13529,26.25,,S
+442,0,,"Hampe, Mr. Leon",,20.0,,0.0,345769,,,S
+443,0,3.0,"Petterson, Mr. Johan Emil",male,25.0,1.0,0.0,347076,-118.19797327681096,,S
+444,1,,"Reynaldo, Ms. Encarnacion",female,,,0.0,230434,13.0,,S
+445,1,3.0,"Johannesen-Bratthammer, Mr. Bernt",male,,,0.0,65306,8.1125,,S
+446,1,1.0,,,4.0,0.0,2.0,33638,81.8583,A34,S
+447,1,2.0,"Mellinger, Miss. Madeleine Violet",,13.0,0.0,2.130519664963452,,19.5,,S
+448,1,1.0,"Seward, Mr. Frederic Kimber",male,,,,,-26.643774834213144,,S
+449,1,,"Baclini, Miss. Marie Catherine",female,5.0,2.0,1.0,2666,19.2583,,C
+450,1,1.0,,male,52.0,,0.0,113786,30.5,,S
+451,0,,"West, Mr. Edwy Arthur",,36.0,1.0,2.0,C.A. 34651,27.75,,S
+452,0,3.0,"Hagland, Mr. Ingvald Olai Olsen",male,,1.0,0.0,65303,19.9667,,S
+453,0,-0.6025213825195641,"Foreman, Mr. Benjamin Laventall",male,,0.0,,113051,27.75,C111,C
+454,1,,"Goldenberg, Mr. Samuel L",male,19.215798635544967,1.0,0.6619585738142784,17453,89.1042,C92,C
+455,1,,"Peduzzi, Mr. Joseph",,,,0.0,A/5 2817,,,
+456,1,,"Jalsevac, Mr. Ivan",male,29.0,-0.028969737928261095,,349240,7.8958,,C
+457,0,1.0,"Millet, Mr. Francis Davis",male,65.0,0.0,0.0,13509,26.55,E38,S
+458,0,1.0,"Kenyon, Mrs. Frederick R (Marion)",female,,,-0.6418020509141336,17464,51.8625,D21,S
+459,0,2.0,,female,50.0,0.0,0.0,F.C.C. 13531,10.5,,S
+460,0,3.0,"O'Connor, Mr. Maurice",,,0.0,2.2610491561566315,371060,7.75,,Q
+461,1,1.0,"Anderson, Mr. Harry",male,,0.0,-0.9936350790758728,19952,,E12,S
+462,0,,"Morley, Mr. William",male,34.0,0.0,0.0,364506,8.05,,
+463,0,1.0,"Gee, Mr. Arthur H",male,47.0,0.0,-0.047582436740721414,,38.5,E63,
+464,0,2.0,"Milling, Mr. Jacob Christian",,48.0,0.0,0.0,234360,13.0,,S
+465,0,3.0,,male,,0.0,0.0,A/S 2816,8.05,,S
+466,0,3.0,"Goncalves, Mr. Manuel Estanslas",male,38.0,-1.6984787429604442,0.0,,7.05,,S
+467,1,2.0,"Campbell, Mr. William",male,,0.0,,239853,,,S
+468,0,1.0,"Smart, Mr. John Montgomery",male,56.0,0.0,0.0,113792,27.08806479578159,,S
+469,0,,,male,,-0.8841732374794657,1.1716475521305338,36209,7.725,,
+470,1,3.0,"Baclini, Miss. Helene Barbara",female,0.75,2.0,1.0,2666,,,C
+471,0,5.0238160114724195,"Keefe, Mr. Arthur",male,,,0.0,323592,7.25,,S
+472,0,4.40764015317935,"Cacic, Mr. Luka",male,38.0,0.0,0.0,315089,8.6625,,S
+473,1,,,female,33.0,1.0,2.0,C.A. 34651,,,S
+474,1,,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",female,9.424249681286238,0.0,-2.477466599073118,SC/AH Basle 541,,D,C
+475,0,1.6271223426283714,"Strandberg, Miss. Ida Sofia",female,22.0,0.0,0.4813753698197028,7553,9.8375,,S
+476,1,1.0,"Clifford, Mr. George Quincy",male,,0.6407281985971787,0.0,110465,52.0,A14,S
+477,0,4.205241087443909,,,,-0.11159338154946763,0.0,31027,21.0,,S
+478,0,3.0,,male,,1.0,0.0,,7.0458,,
+479,0,3.0,"Karlsson, Mr. Nils August",male,22.0,,0.0,350060,7.5208,,S
+480,1,3.0,,female,2.0,0.0,1.0,,12.2875,,S
+481,1,4.2532336264844695,"Goodwin, Master. Harold Victor",male,,5.0,,CA 2144,46.9,,
+482,0,2.074275600398694,"Frost, Mr. Anthony Wood ""Archie""",,,-1.270090006956263,0.0,239854,0.0,,
+483,0,3.0,"Rouse, Mr. Richard Henry",male,50.0,-1.4013944036334103,0.0,A/5 3594,8.05,,S
+484,1,3.0,"Turkula, Mrs. (Hedwig)",,,-2.594492575345092,0.0,4134,9.5875,,
+485,0,,,male,,1.0,,11967,91.0792,B49,C
+486,1,3.0,"Lefebre, Miss. Jeannie",female,,3.0,1.0,4133,25.4667,,S
+487,1,1.0,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",female,35.0,1.0,,19943,,C93,S
+488,0,1.0,"Kent, Mr. Edward Austin",male,58.0,0.0,0.0,11771,29.7,B37,C
+489,0,3.0,"Somerton, Mr. Francis William",male,30.0,0.0,-1.6544988341280435,A.5. 18509,8.05,,S
+490,1,3.0,"Coutts, Master. Eden Leslie ""Neville""",male,,1.0,0.9961378378139877,,,,S
+491,0,3.0,,male,,1.0,0.0,65304,19.9667,,S
+492,0,4.630311772100477,"Windelov, Mr. Einar",male,42.008178826990914,0.0,0.9797537059286011,SOTON/OQ 3101317,7.25,,S
+493,0,1.0,"Molson, Mr. Harry Markland",male,55.0,0.0,0.0,113787,30.5,C30,S
+494,0,1.0,"Artagaveytia, Mr. Ramon",,,-2.147304486238834,1.3838472662433086,,11.792922354191461,,C
+495,0,3.0,,male,,0.0,0.0,A/4 45380,8.05,,S
+496,0,3.0,"Yousseff, Mr. Gerious",male,,0.0,-1.3446883214150156,2627,14.4583,,C
+497,1,1.0,"Eustis, Miss. Elizabeth Mussey",female,54.0,1.0,-0.6703731760510188,36947,78.2667,D20,C
+498,0,2.7764027518788676,"Shellard, Mr. Frederick William",male,,0.0,0.0,C.A. 6212,,,S
+499,0,1.0,,female,25.0,,3.453913354731319,113781,151.55,C22 C26,
+500,1,3.0,"Svensson, Mr. Olof",,24.0,0.0,1.9549820033506666,350035,,,S
+501,0,3.0,"Calic, Mr. Petar",male,17.0,,0.0,315086,8.6625,,
+502,0,3.0,,female,21.0,0.0,0.0,364846,7.75,,Q
+503,0,3.0,,female,,0.0,0.0,,7.6292,,Q
+504,0,3.0,"Laitinen, Miss. Kristina Sofia",,37.0,-3.4218298866515684,0.0,4135,9.5875,,S
+505,1,1.0,,female,16.0,0.0,0.0,110152,86.5,B79,S
+506,0,1.0,"Penasco y Castellana, Mr. Victor de Satode",male,,,,PC 17758,,C65,
+507,1,2.0,"Quick, Mrs. Frederick Charles (Jane Richards)",,-9.826127904875648,0.0,,,,,S
+508,1,1.0,"Bradley, Mr. George (""George Arthur Brayton"")",male,,0.0,0.0,111427,,,S
+509,1,3.0,"Olsen, Mr. Henry Margido",male,28.0,0.0,0.0,,,,S
+510,1,,"Lang, Mr. Fang",male,26.0,,0.0,1601,56.4958,,S
+511,1,,,male,,,,382651,7.75,,Q
+512,0,3.0,"Webber, Mr. James",male,,0.0,-0.6317605972001555,SOTON/OQ 3101316,8.05,,S
+513,1,,"McGough, Mr. James Robert",male,,0.0,0.0,PC 17473,26.2875,,
+514,1,0.8077782876984774,,,54.0,1.0,,PC 17603,,,
+515,0,3.0,"Coleff, Mr. Satio",male,24.0,,0.0,349209,7.4958,,S
+516,0,,"Walker, Mr. William Anderson",,,-2.1559184534331624,0.0,,-12.723020508056138,D46,S
+517,1,0.9078895526132611,,,25.84722284459495,0.0,,C.A. 34260,10.5,F33,S
+518,1,3.0,"Ryan, Mr. Patrick",male,,0.0,0.0,371110,24.15,,
+519,1,,"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",female,,1.0,-0.668023980756994,226875,,,S
+520,1,3.0,"Pavlovic, Mr. Stefo",male,32.0,0.4365101995534596,0.0,349242,-100.06764900275915,,
+521,1,1.0,"Perreault, Miss. Anne",female,30.0,0.0,0.0,12749,93.5,B73,S
+522,1,3.0,"Vovk, Mr. Janko",male,22.0,0.0,0.3158910692879979,349252,7.8958,,
+523,0,,"Lahoud, Mr. Sarkis",male,,0.0,0.0,,7.225,,
+524,1,3.197169016302137,,female,44.0,-0.46013616383975964,1.0,,,B18,C
+525,0,,"Kassem, Mr. Fared",male,,,0.0,2700,7.2292,,C
+526,0,3.0,"Farrell, Mr. James",male,,,0.0,367232,7.75,,Q
+527,1,2.0,"Ridsdale, Miss. Lucy",female,50.0,,0.0,,86.66147207746833,,S
+528,0,-0.7767302302632191,"Farthing, Mr. John",male,,0.0,0.0,,163.46450587500328,C95,S
+529,0,3.0,"Salonen, Mr. Johan Werner",male,39.0,0.0,,,7.925,,S
+530,0,2.0,"Hocking, Mr. Richard George",,23.0,,1.0,29104,-83.96486074209393,,S
+531,1,2.0,"Quick, Miss. Phyllis May",female,2.0,-0.19736872389136306,1.0,26360,26.0,,S
+532,0,3.0,"Toufik, Mr. Nakli",,,1.4843874274182252,-2.1262265210015525,,7.2292,,C
+533,0,3.0,"Elias, Mr. Joseph Jr",male,17.0,-1.1986318780525025,,2690,7.2292,,C
+534,1,3.0,"Peter, Mrs. Catherine (Catherine Rizk)",female,,0.0,1.028860659625463,2668,18.00744811697714,,C
+535,0,,"Cacic, Miss. Marija",,,0.0,,315084,8.6625,,S
+536,1,2.0,,female,,0.0,,F.C.C. 13529,26.25,,S
+537,0,1.0,,male,,0.0,0.0,113050,26.55,,
+538,1,,"LeRoy, Miss. Bertha",female,30.0,0.0,-1.662654115349316,PC 17761,163.79754293400586,,C
+539,0,,"Risien, Mr. Samuel Beard",,,0.0,0.0,364498,14.5,,S
+540,1,-0.4723318970827086,"Frolicher, Miss. Hedwig Margaritha",,22.0,0.0,2.0,,30.088873658579814,B39,C
+541,1,1.0,"Crosby, Miss. Harriet R",female,36.0,0.0,1.0634844740963096,WE/P 5735,71.0,B22,S
+542,0,5.6461471853942236,,,,,,,168.30306746891847,,S
+543,0,4.844256616652673,,female,11.0,3.7443533755676324,2.0,347082,31.275,,S
+544,1,2.0,"Beane, Mr. Edward",male,32.0,1.0,0.0,,26.0,,S
+545,0,,"Douglas, Mr. Walter Donald",male,,1.0,0.0,PC 17761,106.425,C86,C
+546,0,1.0,"Nicholson, Mr. Arthur Ernest",,64.0,-1.717456097686792,0.0,693,87.80520512005931,,S
+547,1,2.0,"Beane, Mrs. Edward (Ethel Clarke)",female,19.0,1.0,0.0,2908,,,S
+548,1,,"Padro y Manent, Mr. Julian",male,,0.0,0.0,SC/PARIS 2146,13.8625,,C
+549,0,4.259396645314737,"Goldsmith, Mr. Frank John",male,51.11484107830982,-1.370421062398119,,,20.525,,S
+550,1,2.0,"Davies, Master. John Morgan Jr",male,8.0,1.0,,C.A. 33112,36.75,,S
+551,1,1.0,,male,17.0,0.0,2.0,,110.8833,C70,C
+552,0,,,,,0.0,0.0,244358,-0.4168734021778171,,S
+553,0,,,male,,0.0,0.0,330979,7.8292,,Q
+554,1,2.8006370047155373,,male,22.0,2.115530022636543,0.0,,54.662379395728934,,C
+555,1,,"Ohman, Miss. Velin",female,,0.0,0.0,347085,7.775,,S
+556,0,1.0,"Wright, Mr. George",male,62.0,0.0,0.0,,26.55,,S
+557,1,1.0,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",female,69.95159174722829,1.0,0.0,,39.6,,C
+558,0,2.916239139358174,"Robbins, Mr. Victor",,,0.0,-1.0130707645922277,PC 17757,227.525,,
+559,1,-0.4166659432562678,"Taussig, Mrs. Emil (Tillie Mandelbaum)",,,-1.1146372477360025,1.0,110413,79.65,E67,S
+560,1,3.0,"de Messemaeker, Mrs. Guillaume Joseph (Emma)",,15.44145375262315,1.0,,345572,17.4,,S
+561,1,,"Morrow, Mr. Thomas Rowan",male,,0.0,0.0,372622,,,
+562,0,2.587683669469398,"Sivic, Mr. Husein",male,,,-0.6615029048209571,349251,7.8958,,S
+563,0,2.0,"Norman, Mr. Robert Douglas",male,,-2.545768082306137,-2.0350667455256586,218629,,,S
+564,0,3.0,"Simmons, Mr. John",,,1.0812235247532949,0.0,,8.05,,S
+565,0,0.9422102900749714,,female,,0.0,0.0,SOTON/O.Q. 392087,8.05,,
+566,0,4.6282100307927525,"Davies, Mr. Alfred J",male,24.0,2.0,0.0,,24.15,,S
+567,0,3.0,"Stoytcheff, Mr. Ilia",,19.0,-2.6464717096367125,0.0,349205,148.3674220294207,,S
+568,1,,"Palsson, Mrs. Nils (Alma Cornelia Berglund)",,29.0,0.0,4.0,349909,21.075,,
+569,0,3.0,"Doharr, Mr. Tannous",,,0.0,0.0,2686,7.2292,,C
+570,1,3.0,"Jonsson, Mr. Carl",male,32.0,0.0,0.0,350417,7.8542,,S
+571,1,-0.49755263882039946,"Harris, Mr. George",male,62.0,0.0,0.0,S.W./PP 752,10.5,,S
+572,1,0.7389301558418111,,female,,,0.0,11769,116.01659352127885,C101,S
+573,1,1.0,"Flynn, Mr. John Irwin (""Irving"")",male,36.0,0.0,0.0,PC 17474,119.45577171242734,,
+574,1,3.0,"Kelly, Miss. Mary",female,,-0.3512318418292371,0.0,14312,,,Q
+575,0,3.0,"Rush, Mr. Alfred George John",male,36.33702408740226,0.0,,A/4. 20589,8.05,,S
+576,0,3.0,"Patchett, Mr. George",male,19.0,0.0,,,14.5,,
+577,0,2.0,"Garside, Miss. Ethel",female,42.66696900344876,0.0,-0.039248218714738256,243880,,,S
+578,1,1.0,"Silvey, Mrs. William Baird (Alice Munger)",,39.0,1.0,,13507,55.9,E44,S
+579,0,3.0,,female,,,0.0,2689,,,C
+580,0,3.0,"Jussila, Mr. Eiriik",,32.0,0.0,0.0,,7.925,,S
+581,1,2.0,,female,25.0,1.0,,237789,,,S
+582,1,1.0,,female,,1.0,1.0,17421,,C68,C
+583,1,,"Downton, Mr. William James",male,54.0,,,28403,26.0,,
+584,1,1.0,"Ross, Mr. John Hugo",male,,0.0,-0.20243013962309328,,40.125,A10,C
+585,0,3.0,"Paulner, Mr. Uscher",male,,0.0,0.0,3411,51.15335308619048,,C
+586,1,1.0,"Taussig, Miss. Ruth",female,26.03880733878438,0.0,2.0,110413,79.65,E68,S
+587,0,,"Jarvis, Mr. John Denzil",male,,0.0,,237565,,,S
+588,1,1.0,"Frolicher-Stehli, Mr. Maxmillian",male,,1.0,1.0,13567,109.04545579407493,,C
+589,0,,"Gilinski, Mr. Eliezer",male,22.0,0.0,0.0,14973,8.05,,S
+590,0,,"Murdlin, Mr. Joseph",male,,0.0,0.0,A./5. 3235,,,S
+591,1,1.0596065770502352,,male,35.0,0.0,0.0,STON/O 2. 3101273,7.125,,
+592,1,1.0,"Stephenson, Mrs. Walter Bertram (Martha Eustis)",female,52.0,,0.0,36947,78.2667,D20,
+593,0,3.0,"Elsbury, Mr. William James",male,29.2629224344272,0.0,0.0,A/5 3902,7.25,,S
+594,0,3.0,"Bourke, Miss. Mary",,,,,364848,-90.96066698494417,,Q
+595,0,,,male,37.0,1.0,0.0,SC/AH 29037,26.0,,
+596,1,3.0,"Van Impe, Mr. Jean Baptiste",male,36.0,1.0,0.8823188181081729,345773,24.15,,
+597,1,2.0,"Leitch, Miss. Jessie Wills",,,0.0,0.0,,67.64468279590714,,S
+598,0,3.0,"Johnson, Mr. Alfred",male,58.210270504160306,0.0,0.0,LINE,0.0,,S
+599,0,3.0,"Boulos, Mr. Hanna",male,,0.0,,,,,C
+600,1,1.0,,male,49.0,1.0,0.0,PC 17485,,A20,
+601,1,2.0,"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",,24.0,2.0,1.0,,27.0,,S
+602,1,3.6744438300905378,"Slabenoff, Mr. Petco",,,0.0,0.0,349214,7.8958,,S
+603,0,1.0,"Harrington, Mr. Charles H",,,,0.0,113796,42.4,,S
+604,0,3.0,"Torber, Mr. Ernst William",male,44.0,0.0,0.0,364511,8.05,,
+605,1,1.0,"Homer, Mr. Harry (""Mr E Haven"")",male,35.0,0.0,,111426,26.55,,C
+606,0,3.0,"Lindell, Mr. Edvard Bengtsson",,19.437791526222593,1.0,,349910,21.90445559882132,,S
+607,0,3.0,"Karaic, Mr. Milan",male,,0.4155365476048038,,349246,76.0481602193457,,
+608,1,,"Daniel, Mr. Robert Williams",,27.0,-0.4308081433397841,0.0,,30.5,,S
+609,1,1.3945956587877402,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",female,,1.0,,SC/Paris 2123,,,C
+610,1,1.0,"Shutes, Miss. Elizabeth W",female,40.0,0.0,-1.486451212062615,PC 17582,153.4625,C125,S
+611,0,3.0,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",female,,1.0,5.0,347082,31.275,,S
+612,0,3.0,"Jardin, Mr. Jose Neto",,,-1.6193208838712485,0.0,,-49.449938457085786,,S
+613,1,0.4970501053457106,"Murphy, Miss. Margaret Jane",female,,1.0,0.0,367230,15.5,,Q
+614,0,3.0,"Horgan, Mr. John",male,,0.0,0.0,370377,7.75,,
+615,0,3.0,"Brocklebank, Mr. William Alfred",male,35.0,0.0,0.0,,8.05,,S
+616,1,2.0,"Herman, Miss. Alice",,,0.6920801671503004,2.0,,65.0,,
+617,0,3.0,"Danbom, Mr. Ernst Gilbert",,34.0,1.0,3.078230990617162,347080,-4.70677536900118,,S
+618,0,3.0,"Lobb, Mrs. William Arthur (Cordelia K Stanlick)",female,26.0,,0.779527565482028,A/5. 3336,,,S
+619,1,,"Becker, Miss. Marion Louise",female,4.0,2.0,1.0,230136,39.0,F4,S
+620,0,,,male,26.0,0.0,0.0,31028,10.5,,S
+621,0,3.0,,male,27.0,1.0,0.6198457498068899,2659,14.4542,,
+622,1,1.0,"Kimball, Mr. Edwin Nelson Jr",male,7.760328589578606,1.0,0.750058046339343,11753,52.5542,D19,S
+623,0,1.5978032060693141,"Nakid, Mr. Sahid",male,20.0,,,2653,,,C
+624,0,3.0,"Hansen, Mr. Henry Damsgaard",male,21.0,,1.090238838194179,350029,7.8542,,
+625,0,3.0,"Bowen, Mr. David John ""Dai""",male,21.0,,0.0,54636,16.1,,S
+626,0,1.0,,male,61.0,0.0,,,,D50,S
+627,0,2.578213465711541,"Kirkland, Rev. Charles Leonard",male,,,0.0,219533,12.35,,Q
+628,1,,,female,21.0,0.0,0.0,13502,77.9583,D9,S
+629,0,-0.04410392468956337,,male,26.0,0.0,,349224,7.8958,,S
+630,0,2.9982679778094026,"O'Connell, Mr. Patrick D",male,,0.6687246517049107,0.6401089533043284,334912,7.7333,,Q
+631,1,1.0,"Barkworth, Mr. Algernon Henry Wilson",male,80.0,0.0,0.0,27042,,A23,S
+632,0,3.0,"Lundahl, Mr. Johan Svensson",male,51.0,0.0,2.4450073922522155,347743,7.0542,,S
+633,1,,"Stahelin-Maeglin, Dr. Max",male,,,0.0,,30.5,B50,C
+634,0,1.0,"Parr, Mr. William Henry Marsh",,,0.0,0.0,112052,0.0,,S
+635,0,,,female,,,2.0,347088,27.9,,
+636,0,,"Davis, Miss. Mary",female,28.0,,0.0,237668,13.0,,S
+637,1,3.0,"Leinonen, Mr. Antti Gustaf",,,0.0,-0.07444931022102567,STON/O 2. 3101292,7.925,,S
+638,0,2.0,,male,31.0,1.0,1.0,C.A. 31921,26.25,,
+639,0,4.591869590783217,"Panula, Mrs. Juha (Maria Emilia Ojala)",,41.0,,5.0,3101295,39.6875,,S
+640,0,3.0,"Thorneycroft, Mr. Percival",,,1.0,0.0,376564,,,S
+641,0,3.70873095320872,,male,20.0,0.0,0.0,,7.8542,,S
+642,1,1.0,"Sagesser, Mlle. Emma",,24.0,0.35542993380781646,0.0,PC 17477,69.3,B35,C
+643,0,,"Skoog, Miss. Margit Elizabeth",female,,,1.5643831608714018,347088,,,S
+644,1,1.306265917115109,,male,,,-2.470958036820691,1601,,,S
+645,0,3.0,"Baclini, Miss. Eugenie",,,2.0,1.0,,19.2583,,C
+646,0,1.0,"Harper, Mr. Henry Sleeper",male,,1.0,0.0,PC 17572,76.7292,D33,
+647,0,,"Cor, Mr. Liudevit",male,19.0,0.0,0.0,349231,7.8958,,S
+648,1,1.0,"Simonius-Blumer, Col. Oberst Alfons",male,,0.0,,13213,35.5,A26,C
+649,0,3.0,"Willey, Mr. Edward",male,,0.0,0.0,S.O./P.P. 751,-52.75338743038204,,S
+650,1,,"Stanley, Miss. Amy Zillah Elsie",female,23.0,,0.0,CA. 2314,7.55,,S
+651,0,3.0,"Mitkoff, Mr. Mito",male,,0.0,0.0,349221,7.8958,,S
+652,1,2.0,"Doling, Miss. Elsie",female,-11.790062613248068,,,231919,23.0,,
+653,0,3.0,,male,56.73385441263547,-2.371588146280546,0.0,8475,8.4333,,S
+654,1,3.0,"O'Leary, Miss. Hanora ""Norah""",female,,,0.0,330919,7.8292,,Q
+655,0,3.0,"Hegarty, Miss. Hanora ""Nora""",female,18.0,0.0,-1.4523298680650094,365226,6.75,,
+656,1,2.0,"Hickman, Mr. Leonard Mark",male,24.0,2.0,,,,,
+657,0,3.0,"Radeff, Mr. Alexander",male,,,0.0,349223,7.8958,,S
+658,0,3.0,"Bourke, Mrs. John (Catherine)",female,32.0,,1.0,,,,Q
+659,0,2.0,"Eitemiller, Mr. George Floyd",male,23.0,0.0,0.0,,,,S
+660,0,1.0,,,,,,35273,113.275,D48,C
+661,1,1.0,"Frauenthal, Dr. Henry William",male,50.0,2.0,0.0,PC 17611,,,S
+662,0,3.0,"Badt, Mr. Mohamed",male,40.0,0.0,0.610656472397574,2623,7.225,,
+663,0,,"Colley, Mr. Edward Pomeroy",male,39.042089840647066,0.0,0.0,5727,25.5875,E58,S
+664,0,,"Coleff, Mr. Peju",male,36.0,,,349210,7.4958,,S
+665,1,0.40774377455557786,"Lindqvist, Mr. Eino William",,-22.952544221513932,1.0,0.0,STON/O 2. 3101285,7.925,,S
+666,0,1.5384251998300744,"Hickman, Mr. Lewis",male,32.0,2.0,0.0,S.O.C. 14879,73.5,,S
+667,0,2.0,"Butler, Mr. Reginald Fenton",male,25.0,0.0,0.0,,13.0,,
+668,0,4.445153769678394,"Rommetvedt, Mr. Knud Paust",male,,,0.0,312993,7.775,,S
+669,0,1.7004430861517437,"Cook, Mr. Jacob",male,43.0,0.0,0.0,,-150.92049778320057,,S
+670,0,1.0,"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",female,,-1.7306253004260932,0.0,,52.0,C126,
+671,0,,"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",female,,,,,39.0,,S
+672,0,1.0,"Davidson, Mr. Thornton",male,14.150082831869636,,0.0,F.C. 12750,52.0,B71,S
+673,1,2.0,"Mitchell, Mr. Henry Michael",male,74.37586310468895,0.0,0.0,C.A. 24580,10.5,,S
+674,0,2.892039544723709,"Wilhelms, Mr. Charles",male,31.0,0.0,0.0,244270,-59.626469082623686,,
+675,0,2.0,"Watson, Mr. Ennis Hastings",male,,0.0,0.0,239856,0.0,,
+676,0,3.0,,,8.11499356111686,0.0,0.0,349912,7.775,,S
+677,1,3.0,,male,24.5,0.0,,,8.05,,S
+678,1,3.0,"Turja, Miss. Anna Sofia",female,,0.0,0.0,4138,9.8417,,
+679,0,,"Goodwin, Mrs. Frederick (Augusta Tyler)",female,,1.0,6.003461099995563,CA 2144,46.9,,S
+680,0,1.0,"Cardeza, Mr. Thomas Drake Martinez",male,,0.0,1.0,PC 17755,512.3292,B51 B53 B55,
+681,0,,"Peters, Miss. Katie",,,0.0,0.0,,8.1375,,
+682,1,1.0,"Hassab, Mr. Hammad",male,27.0,-1.2557767416407726,,,76.7292,,C
+683,1,,"Olsvigen, Mr. Thor Anderson",male,20.0,0.0,,6563,9.225,,S
+684,0,3.0,,male,14.0,,2.0,,46.9,,S
+685,1,2.0,"Brown, Mr. Thomas William Solomon",male,60.0,,0.054062670099495835,29750,39.0,,S
+686,0,2.0,"Laroche, Mr. Joseph Philippe Lemercier",male,25.0,1.0,2.0,SC/Paris 2123,41.5792,,C
+687,0,3.0,"Panula, Mr. Jaako Arnold",male,14.0,4.0,1.0,,39.6875,,S
+688,0,3.0,"Dakic, Mr. Branko",male,46.922145287144986,,0.0,,10.1708,,
+689,0,5.037906152805041,"Fischer, Mr. Eberhard Thelander",male,38.76120512181062,,0.0,350036,,,
+690,1,1.0,"Madill, Miss. Georgette Alexandra",female,15.0,0.0,1.0,24160,211.3375,B5,
+691,1,1.0,"Dick, Mr. Albert Adrian",male,31.0,1.0,0.0,17474,57.0,B20,S
+692,1,3.0,"Karun, Miss. Manca",female,27.602280584392403,,1.0,349256,13.4167,,C
+693,1,3.0,"Lam, Mr. Ali",male,,,0.0,1601,-58.13452524536555,,
+694,0,3.0,"Saad, Mr. Khalil",,25.0,0.0,0.0,2672,7.225,,C
+695,1,1.0,"Weir, Col. John",,60.0,1.4514129675113419,0.0,113800,26.55,,S
+696,0,2.0,"Chapman, Mr. Charles Henry",,,4.257731471007511,0.0,,13.5,,
+697,1,2.2786148202249343,"Kelly, Mr. James",male,44.0,0.0,,363592,72.97092509135737,,
+698,1,3.0,"Mullens, Miss. Katherine ""Katie""",female,,0.0,0.0,35852,-32.46302973762971,,
+699,0,1.0,,male,,1.0,1.0,17421,32.57492955324791,C68,
+700,0,3.0,,male,51.16219625445592,-1.119518864595274,,348121,7.65,,S
+701,1,1.3913646436703708,,,,1.0,,PC 17757,227.525,C62 C64,
+702,1,1.0,"Silverthorne, Mr. Spencer Victor",male,15.884456336062058,0.0,0.0,,,,S
+703,0,,"Barbara, Miss. Saiide",female,18.0,1.081807252996908,1.0,2691,14.4542,,C
+704,0,3.0,"Gallagher, Mr. Martin",male,,0.0,0.0,36864,117.11697202805226,,Q
+705,0,3.0,"Hansen, Mr. Henrik Juul",male,26.0,1.0,0.0,350025,7.8542,,S
+706,0,2.0,,male,39.0,0.0,0.0,250655,26.0,,S
+707,1,2.0,,,45.0,0.0,0.0,223596,13.5,,S
+708,1,1.0,"Calderhead, Mr. Edward Pennington",male,42.0,0.0,,PC 17476,26.2875,E24,S
+709,1,1.0,"Cleaver, Miss. Alice",female,22.0,0.0,0.0,,151.55,,S
+710,1,3.0,"Moubarek, Master. Halim Gonios (""William George"")",male,,1.0,1.0,,15.2458,,
+711,1,1.0,,,24.0,0.0,0.0,,49.5042,C90,C
+712,0,0.4767732370598877,"Klaber, Mr. Herman",male,,,0.0,113028,97.69967306191062,C124,S
+713,1,1.0,"Taylor, Mr. Elmer Zebley",male,48.0,1.0,0.0,19996,52.0,C126,S
+714,0,3.0,"Larsson, Mr. August Viktor",male,29.0,0.0,,7545,9.4833,,S
+715,0,2.0,"Greenberg, Mr. Samuel",male,52.0,0.0,0.0,250647,-1.7550447703158927,,S
+716,0,,"Soholt, Mr. Peter Andreas Lauritz Andersen",male,19.0,2.1616824058339725,-2.063873247913095,348124,,F G73,S
+717,1,2.6947336562260205,"Endres, Miss. Caroline Louise",female,38.0,,1.9577938589699524,,411.0038036359309,,C
+718,1,,"Troutt, Miss. Edwina Celia ""Winnie""",female,,0.0,0.0,34218,10.5,E101,S
+719,0,3.0,"McEvoy, Mr. Michael",,,0.0,,36568,15.5,,Q
+720,0,3.0,"Johnson, Mr. Malkolm Joackim",male,33.0,,,347062,7.775,,S
+721,0,-1.1621781180541206,"Harper, Miss. Annie Jessie ""Nina""",female,,0.0,,248727,33.0,,S
+722,0,3.0,"Jensen, Mr. Svend Lauritz",male,17.0,,,350048,7.0542,,
+723,0,,"Gillespie, Mr. William Henry",male,45.34684933235562,0.0,,12233,104.1395978282768,,S
+724,0,0.05364351646501486,"Hodges, Mr. Henry Price",,,0.0,0.0,,13.0,,
+725,1,,"Chambers, Mr. Norman Campbell",male,,1.0,0.0,113806,,E8,S
+726,0,,,male,20.0,0.0,1.1568548592017798,,8.6625,,S
+727,1,0.5630759166038262,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",female,42.98475034665191,,0.0,,-116.04908868833891,,S
+728,1,,"Mannion, Miss. Margareth",female,,,,,,,Q
+729,1,2.0,,male,25.0,,0.0,236853,26.0,,S
+730,0,3.0,"Ilmakangas, Miss. Pieta Sofia",female,49.682602926740245,1.0,,STON/O2. 3101271,128.68794314156375,,S
+731,1,0.729831697429216,"Allen, Miss. Elisabeth Walton",,29.0,0.0,0.0,24160,,B5,S
+732,0,,"Hassan, Mr. Houssein G N",,-10.99200995306865,0.0,,2699,-57.41066420123901,,C
+733,0,,,male,,1.2559739704508526,0.0,,80.1253124081819,,S
+734,0,2.0,"Berriman, Mr. William John",male,23.0,0.0,0.0,28425,19.981492967186497,,S
+735,1,,"Troupiansky, Mr. Moses Aaron",,23.0,0.0,2.054681647759335,,57.688082107944616,,S
+736,0,2.630495174941712,"Williams, Mr. Leslie",male,28.5,0.0,0.0,,16.1,,
+737,1,3.0,,female,,1.0,3.0,W./C. 6608,34.375,,S
+738,1,1.3282575733466553,,male,54.096642880832704,0.0,,,512.3292,B101,C
+739,1,3.0,"Ivanoff, Mr. Kanio",,,0.0,0.0,,,,
+740,0,3.0,"Nankoff, Mr. Minko",male,,0.0,0.7898062103330894,349218,7.8958,,S
+741,1,,"Hawksford, Mr. Walter James",male,,,0.0,16988,,D45,
+742,0,,"Cavendish, Mr. Tyrell William",male,36.0,,0.0,19877,78.85,C46,S
+743,1,0.9094263678681479,"Ryerson, Miss. Susan Parker ""Suzette""",female,21.0,2.0,2.0,PC 17608,262.375,,
+744,0,,"McNamee, Mr. Neal",,24.0,1.0,-0.31549235614593074,376566,16.1,,S
+745,1,1.7540624723897313,"Stranden, Mr. Juho",male,31.0,0.0,-0.9709746878751871,,7.925,,S
+746,0,1.644642536508343,"Crosby, Capt. Edward Gifford",male,,1.0,1.0,,71.0,,S
+747,0,3.0,"Abbott, Mr. Rossmore Edward",male,16.0,-0.3676241212568907,,C.A. 2673,20.25,,S
+748,0,2.0,"Sinkkonen, Miss. Anna",female,30.0,-0.16489796152774078,,250648,13.0,,S
+749,0,1.0,"Marvin, Mr. Daniel Warner",male,19.0,1.0,0.0,113773,53.1,D30,S
+750,0,3.0,"Connaghton, Mr. Michael",male,31.0,0.0,,335097,7.75,,Q
+751,1,3.547305016049404,,female,-36.603517092951286,,,,,,
+752,1,3.0,"Moor, Master. Meier",,,0.0,,392096,,E121,
+753,0,3.0,"Vande Velde, Mr. Johannes Joseph",male,33.0,0.0,0.0,345780,,,S
+754,0,3.0,,male,,0.0,,,,,S
+755,0,2.0,"Herman, Mrs. Samuel (Jane Laver)",female,36.93942493636898,1.0,,220845,65.0,,S
+756,1,2.0,"Hamalainen, Master. Viljo",male,0.67,1.0,2.498998387379461,,14.5,,S
+757,0,5.063912021807654,"Carlsson, Mr. August Sigfrid",,28.0,0.0,-1.3668884557072194,350042,7.7958,,
+758,0,2.0,"Bailey, Mr. Percy Andrew",male,18.0,0.0,0.0,29108,11.5,,S
+759,0,,"Theobald, Mr. Thomas Leonard",male,34.0,0.0,0.0,363294,8.05,,S
+760,1,1.0,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",female,-4.137801104522509,,0.0,110152,86.5,B77,S
+761,0,3.0,"Garfirth, Mr. John",male,,0.0,-3.2925272972161546,358585,14.5,,S
+762,0,,"Nirva, Mr. Iisakki Antino Aijo",male,,0.0,0.0,,7.125,,S
+763,1,,,male,20.0,,,2663,-26.410443799617056,,
+764,1,,"Carter, Mrs. William Ernest (Lucile Polk)",female,36.0,0.5565256200156055,2.0,113760,120.0,B96 B98,S
+765,0,3.0,"Eklund, Mr. Hans Linus",male,16.0,0.0,,,7.775,,S
+766,1,,"Hogeboom, Mrs. John C (Anna Andrews)",,,0.30087322884842604,,13502,77.9583,,S
+767,0,,"Brewe, Dr. Arthur Jackson",male,,,0.0,112379,39.6,,C
+768,0,,"Mangan, Miss. Mary",female,30.5,0.0,,364850,7.75,,Q
+769,0,,,male,,,,371110,23.5016222565812,,Q
+770,0,3.0,,male,,0.0,0.0,8471,8.3625,,S
+771,0,3.0,"Lievens, Mr. Rene Aime",male,24.0,0.0,0.0,345781,,,S
+772,0,3.0,"Jensen, Mr. Niels Peder",male,48.0,,,,,,S
+773,0,2.0,"Mack, Mrs. (Mary)",female,57.0,,,S.O./P.P. 3,10.5,E77,S
+774,0,3.0,"Elias, Mr. Dibo",male,,,,,,,C
+775,1,,"Hocking, Mrs. Elizabeth (Eliza Needs)",,54.0,1.0,3.0,,23.0,,S
+776,0,3.0,"Myhrman, Mr. Pehr Fabian Oliver Malkolm",male,18.0,0.0,0.0,347078,,,S
+777,0,3.0,"Tobin, Mr. Roger",male,,,0.0,383121,7.75,F38,Q
+778,1,,,,5.0,,0.0,364516,-26.921940711588377,,S
+779,0,3.0,"Kilgannon, Mr. Thomas J",male,,0.0,0.0,,7.7375,,Q
+780,0,1.0,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",female,,0.0,3.914301280033643,24160,211.3375,B3,
+781,1,3.0,"Ayoub, Miss. Banoura",female,,-0.9699134922967667,0.0,2687,,,C
+782,1,1.0,"Dick, Mrs. Albert Adrian (Vera Gillespie)",female,17.0,1.0,,,,B20,
+783,0,1.0,,male,29.0,-0.7783810775498018,,113501,30.0,D6,S
+784,0,3.0,"Johnston, Mr. Andrew G",male,,2.174933128343591,2.0,,101.95404367507652,,
+785,0,3.0,"Ali, Mr. William",,25.0,0.0,0.0,SOTON/O.Q. 3101312,7.05,,S
+786,0,3.0,"Harmer, Mr. Abraham (David Lishin)",,,0.0,,374887,7.25,,S
+787,1,3.0,"Sjoblom, Miss. Anna Sofia",female,18.0,,0.0,3101265,20.982838279589167,,S
+788,0,3.0,"Rice, Master. George Hugh",male,18.220172836378993,,1.0,382652,,,
+789,1,2.847983681684899,"Dean, Master. Bertram Vere",,-21.252856184145,1.0,2.0,C.A. 2315,20.575,,S
+790,0,1.0,"Guggenheim, Mr. Benjamin",male,,,0.0,PC 17593,79.2,,C
+791,0,3.86576033311834,"Keane, Mr. Andrew ""Andy""",male,,0.0,0.0,12460,7.75,,Q
+792,0,2.0,"Gaskell, Mr. Alfred",male,16.0,0.7613909085773055,0.0,,26.0,,S
+793,0,3.0,"Sage, Miss. Stella Anna",female,,8.0,2.0,,69.55,,S
+794,0,,,male,,0.0,,PC 17600,,,C
+795,0,,"Dantcheff, Mr. Ristiu",male,25.0,0.0,0.0,,7.8958,,S
+796,0,2.0,"Otter, Mr. Richard",male,39.0,0.0,-1.9770828104527758,,13.0,,S
+797,1,,"Leader, Dr. Alice (Farnham)",,49.0,0.0,,,,D17,S
+798,1,,"Osman, Mrs. Mara",female,16.898143760221906,0.6868546461462911,0.0,349244,,,S
+799,0,3.73157955829284,"Ibrahim Shawah, Mr. Yousseff",,20.92086264149846,0.0,-0.40780894239648446,2685,7.2292,,C
+800,0,3.0,"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",female,38.91760060044666,1.0,1.0,345773,,,S
+801,0,2.0,"Ponesell, Mr. Martin",,3.6665705056452076,0.0,0.0,250647,13.0,,S
+802,0,3.995612554715658,"Collyer, Mrs. Harvey (Charlotte Annie Tate)",,31.0,,1.0,C.A. 31921,48.82571326928864,,S
+803,1,1.0,"Carter, Master. William Thornton II",,11.0,1.0,2.8921512949292896,113760,120.0,B96 B98,S
+804,1,3.0,"Thomas, Master. Assad Alexander",male,0.42,0.0,0.4021523276576422,2625,8.5167,,C
+805,0,,"Hedman, Mr. Oskar Arvid",male,7.976183863453471,,,347089,,,S
+806,1,,,,78.17790719047952,0.0,0.0,347063,,,S
+807,0,1.0,"Andrews, Mr. Thomas Jr",male,12.699814065733385,0.0,0.0,112050,31.154731414476345,A36,S
+808,0,,"Pettersson, Miss. Ellen Natalia",female,18.0,,,347087,-44.91357888181854,,S
+809,0,1.8960958335660758,"Meyer, Mr. August",male,39.0,0.0,0.0,248723,13.0,,S
+810,0,1.0,"Chambers, Mrs. Norman Campbell (Bertha Griggs)",female,33.0,,0.570366398613296,,84.78124489034654,E8,
+811,0,,"Alexander, Mr. William",male,26.0,0.0,,3474,7.8875,,S
+812,0,,"Lester, Mr. James",,39.0,,0.0,,24.15,,
+813,0,2.0,"Slemen, Mr. Richard James",male,35.0,0.0,1.361958857402806,,10.5,,S
+814,0,3.0,"Andersson, Miss. Ebba Iris Alfrida",female,6.0,,2.0,347082,31.275,,
+815,0,,"Tomlin, Mr. Ernest Portage",,26.619974088392375,0.6571709593436741,0.0,364499,8.05,,S
+816,0,-0.46551353608360313,,male,,,0.0,112058,0.0,B102,S
+817,1,3.6894831975961013,"Heininen, Miss. Wendla Maria",female,23.0,0.0,0.0,STON/O2. 3101290,7.925,,
+818,0,2.0,"Mallet, Mr. Albert",male,31.0,1.6841749182596317,1.0,S.C./PARIS 2079,,,C
+819,0,4.116210918234734,"Holm, Mr. John Fredrik Alexander",male,,0.0,0.0,C 7075,-11.755433427630738,,S
+820,0,3.0,"Skoog, Master. Karl Thorsten",male,3.6144887133179084,3.0,2.0,347088,27.9,,
+821,1,,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",female,52.0,1.0,1.0,12749,,B69,S
+822,1,3.659428449122984,"Lulic, Mr. Nikola",male,,0.0,0.0,315098,76.05342026096717,,
+823,0,1.0,"Reuchlin, Jonkheer. John George",,38.0,0.0,0.0,19972,38.468384475401784,,
+824,1,1.2110001598139768,"Moor, Mrs. (Beila)",,27.0,,,392096,,E121,
+825,0,1.3311193201581109,"Panula, Master. Urho Abraham",male,2.0,4.0,1.0,3101295,,,S
+826,0,,"Flynn, Mr. John",male,,0.0,0.0,368323,6.95,,Q
+827,0,3.0,"Lam, Mr. Len",male,,0.9888149576998202,1.1540844635531184,1601,,,S
+828,1,2.0,"Mallet, Master. Andre",male,1.0,0.0,-0.14570651301985782,S.C./PARIS 2079,90.971510075348,,C
+829,1,3.0,"McCormack, Mr. Thomas Joseph",male,,0.0,0.0,367228,7.75,,Q
+830,1,1.0,,female,,0.21019281587727218,,113572,80.0,B28,
+831,1,3.6186298876454965,"Yasbeck, Mrs. Antoni (Selini Alexander)",female,15.0,1.0,,2659,14.4542,,C
+832,1,2.0,"Richards, Master. George Sibley",male,0.83,1.2716588694974809,1.0,29106,18.75,,S
+833,1,3.0,"Saad, Mr. Amin",male,,,0.0,2671,7.2292,,
+834,0,3.0,"Augustsson, Mr. Albert",male,23.0,-2.062340693364858,0.0,347468,7.8542,,
+835,0,1.3074614042120434,,,52.21420949907427,,0.4303797606179599,,8.3,,S
+836,0,1.0,"Compton, Miss. Sara Rebecca",female,39.0,1.0,1.0,PC 17756,135.06582465450296,E49,C
+837,1,3.0,"Pasic, Mr. Jakob",male,21.0,-0.3246330123796924,-0.11105220642309097,315097,-11.86379280964024,,
+838,0,3.0,,male,,0.0,0.0,392092,8.05,,S
+839,1,3.0,"Chip, Mr. Chang",male,32.0,,0.0,,56.4958,,S
+840,0,1.0,"Marechal, Mr. Pierre",male,,0.0,0.0,11774,29.7,C47,C
+841,0,,,male,20.0,-0.6500157510016922,0.050310483060236055,SOTON/O2 3101287,7.925,,S
+842,0,2.0,"Mudd, Mr. Thomas Charles",male,16.0,0.0,0.0,S.O./P.P. 3,,,S
+843,1,1.4046707330942731,"Serepeca, Miss. Augusta",female,7.560131950980551,0.0,0.0,113798,87.52783293401288,,C
+844,0,4.624655767882795,"Lemberopolous, Mr. Peter L",male,34.5,0.0,1.0179877998843627,2683,6.4375,,C
+845,0,,"Culumovic, Mr. Jeso",male,,2.8786010598194114,,315090,-109.96796119973102,,S
+846,0,3.0,"Abbing, Mr. Anthony",male,42.0,,-0.3321052448653231,,7.55,,
+847,0,3.0,"Sage, Mr. Douglas Bullen",male,,8.0,2.0,,69.55,,S
+848,0,3.0,"Markoff, Mr. Marin",male,35.0,,-0.5614216870995787,349213,7.8958,,
+849,0,,"Harper, Rev. John",,28.0,0.0,1.0,,33.0,,S
+850,1,-0.29589766875248924,"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",female,,,,17453,89.1042,C92,C
+851,1,,"Andersson, Master. Sigvard Harald Elias",male,4.0,4.0,2.0,347082,16.870116876146355,,S
+852,1,,,male,50.94556839779314,0.0,0.0,,,,S
+853,0,3.0,"Boulos, Miss. Nourelain",female,9.0,1.0,1.0,2678,15.2458,,C
+854,1,1.0,"Lines, Miss. Mary Conover",female,,,,PC 17592,39.4,D28,
+855,1,2.0,"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",female,,,-0.9130800478301159,244252,16.330278545794116,,S
+856,0,3.0,"Aks, Mrs. Sam (Leah Rosen)",female,18.0,0.0,1.0,392091,9.35,,
+857,1,1.0,"Wick, Mrs. George Dennick (Mary Hitchcock)",female,45.0,1.0,1.0,36928,258.77072147052087,,S
+858,1,1.0,"Daly, Mr. Peter Denis ",,,,1.3292888419090911,,26.55,E17,S
+859,0,3.0,"Baclini, Mrs. Solomon (Latifa Qurban)",female,,0.0,3.0,,19.2583,,C
+860,0,3.0,"Razi, Mr. Raihed",male,,0.0,0.0,2629,7.2292,,
+861,0,3.0,"Hansen, Mr. Claus Peter",male,,2.0,-1.800925973704498,350026,14.1083,,S
+862,0,2.0,"Giles, Mr. Frederick Edward",male,18.438108572052677,1.241269948185157,,28134,11.5,,S
+863,1,1.0,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",female,48.0,,0.0,,,D17,S
+864,0,3.0,"Sage, Miss. Dorothy Edith ""Dolly""",female,,,2.0,CA. 2343,69.55,,S
+865,0,,"Gill, Mr. John William",male,0.4092939265258728,-1.4464052776817162,0.0,,13.0,,
+866,0,2.0,,female,,,,236852,13.0,,S
+867,1,2.0,"Duran y More, Miss. Asuncion",female,27.0,0.6212324775485125,0.02875769473316383,SC/PARIS 2149,,,
+868,0,1.0,"Roebling, Mr. Washington Augustus II",male,31.0,0.0,0.0,PC 17590,50.4958,A24,
+869,0,,"van Melkebeke, Mr. Philemon",male,,-0.5389557361470757,,345777,,,S
+870,1,3.0,"Johnson, Master. Harold Theodor",male,4.0,1.0,,,28.658708780189727,,S
+871,0,3.0,,male,30.002707370150564,-0.5770094442910477,,349248,7.8958,,
+872,1,,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",female,59.968341788797545,1.0,1.0,11751,52.5542,D35,S
+873,0,1.0,,male,33.0,0.0,0.0,,,B51 B53 B55,S
+874,1,3.0,,male,47.0,2.62978212272885,0.0,345765,9.0,,S
+875,1,2.0,,female,28.0,1.0,3.504898750763365,P/PP 3381,24.0,,C
+876,1,3.0,"Najib, Miss. Adele Kiamie ""Jane""",female,,0.0,0.0,2667,7.225,,C
+877,0,3.0,,,20.0,,0.0,7534,3.3388819667181213,,
+878,0,3.0,,male,17.964617245150773,0.0,0.0,,7.8958,,S
+879,0,3.0,"Laleff, Mr. Kristo",male,,-1.6568176469959683,,349217,7.8958,,S
+880,1,1.0,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",female,56.0,-0.6423873769205969,1.0,,26.880266801217296,C50,C
+881,1,2.0,"Shelley, Mrs. William (Imanita Parrish Hall)",female,25.0,,1.0,230433,-0.5640985606636839,,
+882,0,3.0,"Markun, Mr. Johann",male,33.0,0.0,0.0,349257,7.8958,,
+883,0,3.0,"Dahlberg, Miss. Gerda Ulrika",female,22.0,-0.8363416306356387,0.0,7552,10.5167,,S
+884,0,1.6299197672511188,"Banfield, Mr. Frederick James",male,28.0,0.0,0.0,C.A./SOTON 34068,10.5,,S
+885,0,,"Sutehall, Mr. Henry Jr",male,25.0,0.0,0.0,SOTON/OQ 392076,,,S
+886,0,3.0,"Rice, Mrs. William (Margaret Norton)",,41.015386149464916,,5.0,382652,29.125,,Q
+887,0,2.4901714557347434,"Montvila, Rev. Juozas",male,31.4347140995575,0.0,,211536,13.0,,S
+888,1,,"Graham, Miss. Margaret Edith",female,19.0,0.0,0.0,112053,30.0,B42,S
+889,0,,"Johnston, Miss. Catherine Helen ""Carrie""",female,,1.0,1.3506167823692823,W./C. 6607,-94.01955231203672,,S
+890,1,-0.001371386966845023,,male,26.0,0.0,0.0,,30.0,C148,C
+891,1,3.0,"Dooley, Mr. Patrick",male,,0.0,,370376,7.75,,Q
